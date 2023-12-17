@@ -9,7 +9,8 @@ I'm 22-year-old full stack developer based in Ukraine 📍, and I'm passionate a
 
 - 📫 How to reach me **tolikgalas@gmail.com**
 
-### <span style="border-bottom: 1px solid gray;">⚡ Fun facts</span>
+### ⚡ Fun facts
+---
 - My favorite series is Money Heist 💸
 - I play the guitar 🎸
 - I hate kidney beans 🙅‍♂️
