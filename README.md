@@ -1,4 +1,5 @@
-### Hi 👋, I'm Anatolii Halas
+## Hi 👋, I'm Anatolii Halas
+
 I'm 22-year-old full stack developer based in Ukraine 📍, and I'm passionate about crafting digital experiences 🕶️💻📈.
 
 - 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1uLMWgFIcxv4y6dI0GkSubIYxstr_7_A_ZjQuIixEhvo/edit?usp=sharing)
@@ -15,7 +16,10 @@ I'm 22-year-old full stack developer based in Ukraine 📍, and I'm passionate a
 - I play the guitar 🎸
 - I hate kidney beans 🙅‍♂️
 
-<h3 align="left">Connect with me:</h3>
+## ✍️ Contact 
+
+For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme_/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/)
+
 <p align="left">
 <a href="https://dev.to/@anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anatolii_halas" height="30" width="40" /></a>
 <a href="https://twitter.com/anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anatolii_halas" height="30" width="40" /></a>
