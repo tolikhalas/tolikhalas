@@ -1,10 +1,21 @@
 ## Hi 👋, I'm Anatolii Halas
 
-I'm 22-year-old full stack developer based in Ukraine 📍, and I'm passionate about crafting digital experiences 🕶️💻📈.
+**` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
-- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1uLMWgFIcxv4y6dI0GkSubIYxstr_7_A_ZjQuIixEhvo/edit?usp=sharing)
+🌐 JavaScript | TypeScript | React | Next.js | Nest.js | Django | Laravel | AWS | GCP | Full-Stack Development 🧰
+
+👋 Hi there! I'm a passionate and experienced full stack developer with: 
+- 🎖️ Proven track record of delivering high-performance web and mobile applications.
+- 🧑‍🎓 Solid foundation in both frontend and backend technologies,
+- 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
+
+- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
+
+## Milestones 🎯
   
-- 🌱 I’m currently learning `Github Actions` `Google Cloud Platform`
+- 🔭 I’m currently working on JS animation library
+
+- 🌱 I’m currently learning `kubernetes`
 
 - 💬 Ask me about **[next.js](https://nextjs.org/)**, **[nuxt,js](https://nuxt.com/)**, **[django](https://www.djangoproject.com/)**, **[laravel](https://laravel.com/)**, **[spring](https://spring.io/)**
 
