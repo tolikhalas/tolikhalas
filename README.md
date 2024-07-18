@@ -29,7 +29,7 @@
 
 ## 💡 What I Do
 
-<div style="font-family: Arial, sans-serif; display: grid; gap: 20px; padding: 20px;">
+<div style="font-family: Arial, sans-serif; display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
 
 <div class="card" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px #aaa; overflow: hidden; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
     <img src='https://assets.markup.io/app/uploads/2023/03/website-mockup-examples-candy.png' alt="ui mockup example">
