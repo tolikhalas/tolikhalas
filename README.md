@@ -2,46 +2,101 @@
 
 **` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
+🧑‍🎤 Hi there! I'm a passionate and experienced full stack developer with:
 
-👋 Hi there! I'm a passionate and experienced full stack developer with:
 - 🎖️ Proven track record of delivering high-performance web and mobile applications.
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies,
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
 
+### 🧭 Check my CV
+
 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
+
+<p align="left">
+      <a href="https://www.linkedin.com/in/anatolii-halas/">
+         <img alt="linkedin profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/></a>
+      <a href="https://x.com/anatolii_halas">
+         <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/anatolii_halas?label=X.com&color=222222&logo=eye&logoColor=white&style=for-the-badge&labelColor=black"/></a>
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tolikhalas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/tolikhalas?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tolikhalas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ## 💡 What I Do
 
-- 🎨 Frontend Development: 
-  - 👨‍🔬 Expert in JavaScript, TypeScript, React, Vue, Next.js & Nuxt.js. 
-  - ⚛️ I craft dynamic and responsive UI components using HTML, CSS, Sass, LESS, Bootstrap, and TailwindCSS. 
-  - 📐 Ensuring pixel-perfect designs and smooth interactions.
+<div style="font-family: Arial, sans-serif; display: grid; gap: 20px; padding: 20px;">
 
-- 🏗️Backend Development: 
-  - 🏆 Skilled in Node.js, Nest.js, Express, Django & Laravel. 
-  - 🏛️ I build robust and scalable server-side applications. 
-  - 💾 Proficient in SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Redis.
-  - 📨 Highly available messaging with Kafka & RabbitMQ.
-  - ☁️ Implement Cloud & Microservices with AWS & GCP.
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px #aaa; overflow: hidden; background-color: #fafafa">
+    <img src='https://assets.markup.io/app/uploads/2023/03/website-mockup-examples-candy.png'>
+    <div style="padding: 20px;">
+        <h2>🎨 Frontend Development</h2>
+        <ul>
+            <li>👨‍🔬 Expert in JavaScript, TypeScript, React, Vue, Next.js & Nuxt.js.</li>
+            <li>⚛️ I craft dynamic and responsive UI components using HTML, CSS, Sass, LESS, Bootstrap, and TailwindCSS.</li>
+            <li>📐 Ensuring pixel-perfect designs and smooth interactions.</li>
+        </ul>
+    </div>
+</div>
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa">
+    <img src='https://themewagon.com/wp-content/uploads/2018/05/now_ui_dash_fet-1.jpg'>
+    <div style="padding: 20px;">
+        <h2>🏗️ Backend Development</h2>
+        <ul>
+            <li>🏆 Skilled in Node.js, Nest.js, Express, Django & Laravel.</li>
+            <li>🏛️ I build robust and scalable server-side applications.</li>
+            <li>💾 Proficient in SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Redis.</li>
+            <li>📨 Highly available messaging with Kafka & RabbitMQ.</li>
+            <li>☁️ Implement Cloud & Microservices with AWS & GCP.</li>
+        </ul>
+    </div>
+</div>
 
-- 📐 State Management: 
-  - 🏪 Adept at using Redux, Redux Toolkit, Vuex, and Pinia for managing complex application states efficiently.
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa">
+    <img src="https://strapi.dhiwise.com/uploads/give_your_react_apps_an_edge_mastering_redux_toolkit_0_9c97663b53.jpg">
+    <div style="padding: 20px;">
+        <h2>📐 State Management</h2>
+        <ul>
+            <li>🏪 Adept at using Redux, Redux Toolkit, Vuex, and Pinia for managing complex application states efficiently.</li>
+        </ul>
+    </div>
+</div>
 
-- ☁️ Microservices & Cloud: 
-  - 🧑‍🏭 Architect and maintain microservices on AWS and GCP, enhancing scalability and reliability. 
-  - 🔜 Implement CI/CD pipelines using GitHub Actions and Docker.
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240125121106/microservices.webp">
+    <div style="padding: 20px;">
+        <h2>☁️ Microservices & Cloud</h2>
+        <ul>
+            <li>🧑‍🏭 Architect and maintain microservices on AWS and GCP, enhancing scalability and reliability.</li>
+            <li>🔜 Implement CI/CD pipelines using GitHub Actions and Docker.</li>
+        </ul>
+    </div>
+</div>
 
-- 🧪 Testing & Optimization: 
-  - ⚙️ Conduct thorough unit and integration testing with Mocha, Jest, and Vitest. 
-  - 📈 Optimize frontend assets with Webpack, Esbuild, and Vite, improving performance and reducing load times.
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa">
+    <img src="https://usersnap.com/blog/wp-content/uploads/2021/03/7-Common-Types-of-Software-Testing@1x-1280x720.png">
+    <div style="padding: 20px;">
+        <h2>🧪 Testing & Optimization</h2>
+        <ul>
+            <li>⚙️ Conduct thorough unit and integration testing with Mocha, Jest, and Vitest.</li>
+            <li>📈 Optimize frontend assets with Webpack, Esbuild, and Vite, improving performance and reducing load times.</li>
+        </ul>
+    </div>
+</div>
 
-- 💃 Animation & Graphics: Utilize Gsap, Framer Motion, and Three.js for engaging animations. 
-
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa">
+    <img src="https://camo.githubusercontent.com/8f7789afb511dd547cb154d51e369c1ad7222f3f26dd749f0bf45f0891c6a38f/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f704d534f6d47503256387353615a525632443769344854425465342e706e67">
+    <div style="padding: 20px;">
+        <h2>💃 Animation & Graphics</h2>
+        <ul>
+            <li>Utilize Gsap, Framer Motion, and Three.js for engaging animations.</li>
+        </ul>
+    </div>
+</div>
+</div>
 
 ## Milestones 🎯
 
-
-  
 - 🔭 I’m currently working on JS animation library
 
 - 🌱 I’m currently learning <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes logo"> `kubernetes`
@@ -56,7 +111,7 @@
 - I play the guitar 🎸
 - I hate kidney beans 🙅‍♂️
 
-## ✍️ Contact 
+## ✍️ Contact
 
 For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme_/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/)
 
