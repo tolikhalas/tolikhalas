@@ -9,13 +9,13 @@
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies,
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
 
-- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
+📄 Know about my experiences [My resume](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
 ## Milestones 🎯
   
 - 🔭 I’m currently working on JS animation library
 
-- 🌱 I’m currently learning `kubernetes`
+- 🌱 I’m currently learning <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes logo"> `kubernetes`
 
 - 💬 Ask me about **[next.js](https://nextjs.org/)**, **[nuxt,js](https://nuxt.com/)**, **[django](https://www.djangoproject.com/)**, **[laravel](https://laravel.com/)**, **[spring](https://spring.io/)**
 
