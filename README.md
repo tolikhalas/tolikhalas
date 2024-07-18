@@ -2,22 +2,51 @@
 
 **` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
-🌐 JavaScript | TypeScript | React | Next.js | Nest.js | Django | Laravel | AWS | GCP | Full-Stack Development 🧰
 
-👋 Hi there! I'm a passionate and experienced full stack developer with: 
+👋 Hi there! I'm a passionate and experienced full stack developer with:
 - 🎖️ Proven track record of delivering high-performance web and mobile applications.
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies,
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
 
 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
+## 💡 What I Do
+
+- 🎨 Frontend Development: 
+  - 👨‍🔬 Expert in JavaScript, TypeScript, React, Vue, Next.js & Nuxt.js. 
+  - ⚛️ I craft dynamic and responsive UI components using HTML, CSS, Sass, LESS, Bootstrap, and TailwindCSS. 
+  - 📐 Ensuring pixel-perfect designs and smooth interactions.
+
+- 🏗️Backend Development: 
+  - 🏆 Skilled in Node.js, Nest.js, Express, Django & Laravel. 
+  - 🏛️ I build robust and scalable server-side applications. 
+  - 💾 Proficient in SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Redis.
+  - 📨 Highly available messaging with Kafka & RabbitMQ.
+  - ☁️ Implement Cloud & Microservices with AWS & GCP.
+
+- 📐 State Management: 
+  - 🏪 Adept at using Redux, Redux Toolkit, Vuex, and Pinia for managing complex application states efficiently.
+
+- ☁️ Microservices & Cloud: 
+  - 🧑‍🏭 Architect and maintain microservices on AWS and GCP, enhancing scalability and reliability. 
+  - 🔜 Implement CI/CD pipelines using GitHub Actions and Docker.
+
+- 🧪 Testing & Optimization: 
+  - ⚙️ Conduct thorough unit and integration testing with Mocha, Jest, and Vitest. 
+  - 📈 Optimize frontend assets with Webpack, Esbuild, and Vite, improving performance and reducing load times.
+
+- 💃 Animation & Graphics: Utilize Gsap, Framer Motion, and Three.js for engaging animations. 
+
+
 ## Milestones 🎯
+
+
   
 - 🔭 I’m currently working on JS animation library
 
 - 🌱 I’m currently learning <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes logo"> `kubernetes`
 
-- 💬 Ask me about **[next.js](https://nextjs.org/)**, **[nuxt,js](https://nuxt.com/)**, **[django](https://www.djangoproject.com/)**, **[laravel](https://laravel.com/)**, **[spring](https://spring.io/)**
+- 💬 Ask me about **[next.js](https://nextjs.org/)**, **[nuxt,js](https://nuxt.com/)**, **[django](https://www.djangoproject.com/)**, **[laravel](https://laravel.com/)**
 
 - 📫 How to reach me **tolikgalas@gmail.com**
 
