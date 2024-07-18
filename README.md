@@ -31,73 +31,73 @@
 
 <div style="font-family: Arial, sans-serif; display: grid; gap: 20px; padding: 20px;">
 
-  <div class="card" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px #aaa; overflow: hidden; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
-      <img src='https://assets.markup.io/app/uploads/2023/03/website-mockup-examples-candy.png' alt="ui mockup example">
-      <div style="padding: 20px;">
-          <h2>🎨 Frontend Development</h2>
-          <ul>
-              <li>👨‍🔬 Expert in <a href="https://javascript.com">JavaScript</a>, <a href="https://www.typescriptlang.org">TypeScript</a>, <a href="https://reactjs.org">React</a>, <a href="https://vuejs.org">Vue</a>, <a href="https://nextjs.org">Next.js</a> & <a href="https://nuxtjs.org">Nuxt.js</a>.</li>
-              <li>⚛️ I craft dynamic and responsive UI components using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com">Sass</a>, <a href="http://lesscss.org">LESS</a>, <a href="https://getbootstrap.com">Bootstrap</a>, and <a href="https://tailwindcss.com">TailwindCSS</a>.</li>
-              <li>📐 Ensuring pixel-perfect designs and smooth interactions.</li>
-          </ul>
-      </div>
-  </div>
-  
-  <div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
-      <img src='https://themewagon.com/wp-content/uploads/2018/05/now_ui_dash_fet-1.jpg'>
-      <div style="padding: 20px;">
-          <h2>🏗️ Backend Development</h2>
-          <ul>
-              <li>🏆 Skilled in <a href="https://nodejs.org">Node.js</a>, <a href="https://nestjs.com">Nest.js</a>, <a href="https://expressjs.com">Express</a>, <a href="https://www.djangoproject.com">Django</a> & <a href="https://laravel.com">Laravel</a>.</li>
-              <li>🏛️ I build robust and scalable server-side applications.</li>
-              <li>💾 Proficient in SQL and NoSQL databases, including <a href="https://www.mysql.com">MySQL</a>, <a href="https://www.postgresql.org">PostgreSQL</a>, <a href="https://www.mongodb.com">MongoDB</a>, and <a href="https://redis.io">Redis</a>.</li>
-              <li>📨 Highly available messaging with <a href="https://kafka.apache.org">Kafka</a> & <a href="https://www.rabbitmq.com">RabbitMQ</a>.</li>
-              <li>☁️ Implement Cloud & Microservices with <a href="https://aws.amazon.com">AWS</a> & <a href="https://cloud.google.com">GCP</a>.</li>
-          </ul>
-      </div>
-  </div>
-  
-  <div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
-      <img src="https://strapi.dhiwise.com/uploads/give_your_react_apps_an_edge_mastering_redux_toolkit_0_9c97663b53.jpg">
-      <div style="padding: 20px;">
-          <h2>📐 State Management</h2>
-          <ul>
-              <li>🏪 Adept at using <a href="https://redux.js.org">Redux</a>, <a href="https://redux-toolkit.js.org">Redux Toolkit</a>, <a href="https://vuex.vuejs.org">Vuex</a>, and <a href="https://pinia.vuejs.org">Pinia</a> for managing complex application states efficiently.</li>
-          </ul>
-      </div>
-  </div>
-  
-  <div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240125121106/microservices.webp">
-      <div style="padding: 20px;">
-          <h2>☁️ Microservices & Cloud</h2>
-          <ul>
-              <li>🧑‍🏭 Architect and maintain microservices on <a href="https://aws.amazon.com">AWS</a> and <a href="https://cloud.google.com">GCP</a>, enhancing scalability and reliability.</li>
-              <li>🔜 Implement CI/CD pipelines using <a href="https://github.com/features/actions">GitHub Actions</a> and <a href="https://www.docker.com">Docker</a>.</li>
-          </ul>
-      </div>
-  </div>
-  
-  <div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
-      <img src="https://usersnap.com/blog/wp-content/uploads/2021/03/7-Common-Types-of-Software-Testing@1x-1280x720.png">
-      <div style="padding: 20px;">
-          <h2>🧪 Testing & Optimization</h2>
-          <ul>
-              <li>⚙️ Conduct thorough unit and integration testing with <a href="https://mochajs.org">Mocha</a>, <a href="https://jestjs.io">Jest</a>, and <a href="https://vitest.dev">Vitest</a>.</li>
-              <li>📈 Optimize frontend assets with <a href="https://webpack.js.org">Webpack</a>, <a href="https://esbuild.github.io">Esbuild</a>, and <a href="https://vitejs.dev">Vite</a>, improving performance and reducing load times.</li>
-          </ul>
-      </div>
-  </div>
-  
-  <div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
-      <img src="https://camo.githubusercontent.com/8f7789afb511dd547cb154d51e369c1ad7222f3f26dd749f0bf45f0891c6a38f/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f704d534f6d47503256387353615a525632443769344854425465342e706e67">
-      <div style="padding: 20px;">
-          <h2>💃 Animation & Graphics</h2>
-          <ul>
-              <li>Utilize <a href="https://greensock.com/gsap">Gsap</a>, <a href="https://www.framer.com/motion">Framer Motion</a>, and <a href="https://threejs.org">Three.js</a> for engaging animations.</li>
-          </ul>
-      </div>
-  </div>
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px #aaa; overflow: hidden; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src='https://assets.markup.io/app/uploads/2023/03/website-mockup-examples-candy.png' alt="ui mockup example">
+    <div style="padding: 20px;">
+        <h2>🎨 Frontend Development</h2>
+        <ul>
+            <li>👨‍🔬 Expert in <a href="https://javascript.com">JavaScript</a>, <a href="https://www.typescriptlang.org">TypeScript</a>, <a href="https://reactjs.org">React</a>, <a href="https://vuejs.org">Vue</a>, <a href="https://nextjs.org">Next.js</a> & <a href="https://nuxtjs.org">Nuxt.js</a>.</li>
+            <li>⚛️ I craft dynamic and responsive UI components using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com">Sass</a>, <a href="http://lesscss.org">LESS</a>, <a href="https://getbootstrap.com">Bootstrap</a>, and <a href="https://tailwindcss.com">TailwindCSS</a>.</li>
+            <li>📐 Ensuring pixel-perfect designs and smooth interactions.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src='https://themewagon.com/wp-content/uploads/2018/05/now_ui_dash_fet-1.jpg'>
+    <div style="padding: 20px;">
+        <h2>🏗️ Backend Development</h2>
+        <ul>
+            <li>🏆 Skilled in <a href="https://nodejs.org">Node.js</a>, <a href="https://nestjs.com">Nest.js</a>, <a href="https://expressjs.com">Express</a>, <a href="https://www.djangoproject.com">Django</a> & <a href="https://laravel.com">Laravel</a>.</li>
+            <li>🏛️ I build robust and scalable server-side applications.</li>
+            <li>💾 Proficient in SQL and NoSQL databases, including <a href="https://www.mysql.com">MySQL</a>, <a href="https://www.postgresql.org">PostgreSQL</a>, <a href="https://www.mongodb.com">MongoDB</a>, and <a href="https://redis.io">Redis</a>.</li>
+            <li>📨 Highly available messaging with <a href="https://kafka.apache.org">Kafka</a> & <a href="https://www.rabbitmq.com">RabbitMQ</a>.</li>
+            <li>☁️ Implement Cloud & Microservices with <a href="https://aws.amazon.com">AWS</a> & <a href="https://cloud.google.com">GCP</a>.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://strapi.dhiwise.com/uploads/give_your_react_apps_an_edge_mastering_redux_toolkit_0_9c97663b53.jpg">
+    <div style="padding: 20px;">
+        <h2>📐 State Management</h2>
+        <ul>
+            <li>🏪 Adept at using <a href="https://redux.js.org">Redux</a>, <a href="https://redux-toolkit.js.org">Redux Toolkit</a>, <a href="https://vuex.vuejs.org">Vuex</a>, and <a href="https://pinia.vuejs.org">Pinia</a> for managing complex application states efficiently.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240125121106/microservices.webp">
+    <div style="padding: 20px;">
+        <h2>☁️ Microservices & Cloud</h2>
+        <ul>
+            <li>🧑‍🏭 Architect and maintain microservices on <a href="https://aws.amazon.com">AWS</a> and <a href="https://cloud.google.com">GCP</a>, enhancing scalability and reliability.</li>
+            <li>🔜 Implement CI/CD pipelines using <a href="https://github.com/features/actions">GitHub Actions</a> and <a href="https://www.docker.com">Docker</a>.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://usersnap.com/blog/wp-content/uploads/2021/03/7-Common-Types-of-Software-Testing@1x-1280x720.png">
+    <div style="padding: 20px;">
+        <h2>🧪 Testing & Optimization</h2>
+        <ul>
+            <li>⚙️ Conduct thorough unit and integration testing with <a href="https://mochajs.org">Mocha</a>, <a href="https://jestjs.io">Jest</a>, and <a href="https://vitest.dev">Vitest</a>.</li>
+            <li>📈 Optimize frontend assets with <a href="https://webpack.js.org">Webpack</a>, <a href="https://esbuild.github.io">Esbuild</a>, and <a href="https://vitejs.dev">Vite</a>, improving performance and reducing load times.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px #aaa; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
+    <img src="https://camo.githubusercontent.com/8f7789afb511dd547cb154d51e369c1ad7222f3f26dd749f0bf45f0891c6a38f/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f704d534f6d47503256387353615a525632443769344854425465342e706e67">
+    <div style="padding: 20px;">
+        <h2>💃 Animation & Graphics</h2>
+        <ul>
+            <li>Utilize <a href="https://greensock.com/gsap">Gsap</a>, <a href="https://www.framer.com/motion">Framer Motion</a>, and <a href="https://threejs.org">Three.js</a> for engaging animations.</li>
+        </ul>
+    </div>
+</div>
 </div>
 
 <style>
