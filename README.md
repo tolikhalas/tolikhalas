@@ -14,7 +14,10 @@
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
-<p>🌐 Check my website <span style="color: gray;"> 👷 In progress...</span></p>
+<p>
+  <span>🌐 Check my website </span>
+  <span style="color: gray;"> 👷 In progress...</span>
+</p>
 
 <p align="left">
       <a href="https://www.linkedin.com/in/anatolii-halas/">
