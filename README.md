@@ -29,6 +29,18 @@
 
 ## 💡 What I Do
 
+<style>
+  .card:hover {
+    transform: translateX(-10px);
+  }
+
+  .card:hover ~ .card {
+    filter: brightness(0.8);
+  }
+
+  .
+</style>
+
 <div style="font-family: Arial, sans-serif; display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
 
 <div class="card" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px #aaa; overflow: hidden; background-color: #fafafa; transition: transform 0.3s ease, filter 0.3s ease;">
@@ -99,18 +111,6 @@
     </div>
 </div>
 </div>
-
-<style>
-  .card:hover {
-    transform: translateX(-10px);
-  }
-
-  .card:hover ~ .card {
-    filter: brightness(0.8);
-  }
-
-  .
-</style>
 
 ## 🎯 Milestones
 
