@@ -76,11 +76,11 @@
   </a>
 
   <a href="https://www.react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdKj0luKnS60quv6sXxn5JzSZ8Mk0kcFbAA&s" alt="react hook form" width="40"/>
+    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="react hook form" width="40"/>
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwindcss" height="32"/>
+    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" height="32"/>
   </a>
 
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
@@ -184,7 +184,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwindcss" height="32"/>
+    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" height="32"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -308,7 +308,7 @@ For form validation and data handling, I leverage powerful libraries like [Zod](
     <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="tanstack query" height="40"/>
   </a>
   <a href="https://www.react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdKj0luKnS60quv6sXxn5JzSZ8Mk0kcFbAA&s" alt="react hook form" width="40"/>
+    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="react hook form" width="40"/>
   </a>
 </p>
 
