@@ -216,7 +216,7 @@ My primary tools for frontend development include essential web technologies suc
     <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px">
   </a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ494s97h7aVykAjvgNeKOGnjjgUPqCAP_BA&s" alt="Nuxt.js Logo" height="32px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1024px-Nuxt_logo.svg.png?20201218211241" alt="Nuxt.js Logo" height="32px">
   </a>
 </p>
 
@@ -233,7 +233,7 @@ I am proficient in using modern JavaScript frameworks such as [React](https://re
 
 <p align="left">
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hv13xWYrg_Usxww9OTPx3FdKaIukCcCwrA&s" alt="Jest logo" height="40px">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest logo" height="40px">
   </a>
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
@@ -242,7 +242,7 @@ I am proficient in using modern JavaScript frameworks such as [React](https://re
     <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="Vitest Logo" height="40px">
   </a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjUExjd9CavUDGe5TYy-wN6ggk1iDh8kna2Xq06uOqVfAEyPU4Oys5sacKBx5AG32I_Y&usqp=CAU" alt="Testing Library Logo" height="32px">
+    <img src="https://testing-library.com/img/logo-large.png" alt="Testing Library Logo" height="40px">
   </a>
 </p>
 
@@ -368,7 +368,7 @@ I specialize in [Next.js](https://nextjs.org/) and its ecosystem, including [Nex
 
 My proficiency in [Vue.js](https://vuejs.org/) extends to its ecosystem, including state management with [Vuex](https://vuex.vuejs.org/) and [Pinia](https://pinia.vuejs.org/), routing with [Vue Router](https://router.vuejs.org/), and form validation with [Vee Validate](https://vee-validate.logaretm.com).
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ494s97h7aVykAjvgNeKOGnjjgUPqCAP_BA&s" alt="Nuxt.js Logo" height="32px"> Nuxt.js & Nuxt.js Ecosystem
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1024px-Nuxt_logo.svg.png?20201218211241" alt="Nuxt.js Logo" height="32px"> Nuxt.js & Nuxt.js Ecosystem
 
 <p align="left">
   <a href="https://nuxt-3-auth.github.io/" target="_blank" rel="noreferrer">
