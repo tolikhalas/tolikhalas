@@ -88,11 +88,11 @@
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40 "/>
   </a>
 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" height="32"/>
+    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" height="40"/>
   </a>
   <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM Logo" width="40" height="40"/>
