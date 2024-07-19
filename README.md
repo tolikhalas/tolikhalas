@@ -210,7 +210,7 @@ My primary tools for frontend development include essential web technologies suc
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="React logo" height="40px">
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s" alt="Vue.js Logo" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" alt="Vue.js Logo" height="40">
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px">
@@ -342,7 +342,7 @@ I specialize in [Next.js](https://nextjs.org/) and its ecosystem, including [Nex
 | Next Auth  | 2 years            | ⭐⭐⭐⭐⭐  |
 | I18Next    | 2 years            | ⭐⭐⭐⭐⭐  |
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s" alt="Vue.js Logo" height="32px"> Vue.js & Vue.js Ecosystem
+### <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" alt="Vue.js Logo" height="32px"> Vue.js & Vue.js Ecosystem
 
 <p align="left">
   <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
