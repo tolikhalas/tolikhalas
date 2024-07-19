@@ -644,6 +644,8 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 5. **🎸 I play the guitar in my spare time.** Music and coding are my two favorite ways to express creativity!
 
+6. **<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" alt="Arch Linux Logo" height="16px"> I use arch by the way...**
+
 ## ✍️ Contact
 
 For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/).
