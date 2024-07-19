@@ -346,16 +346,16 @@ I specialize in [Next.js](https://nextjs.org/) and its ecosystem, including [Nex
 
 <p align="left">
   <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClFTHwxVGkAQgBitJLd9WZvYSmHd9p4CdzQ&s" alt="Vuex Logo" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="Vuex Logo" width="40" height="40"/>
   </a>
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5h3QHUjQnXfyGj9--Uy00FZ-litF3OBRFw&s" alt="Pinia Logo" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/638px-Pinialogo.svg.png" alt="Pinia Logo" height="40"/>
   </a>
   <a href="https://router.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjMi1ePIuUtv99P1Iv5dnuEqKkLsorfgi0A&s" alt="Vue Router Logo" height="40"/>
+    <img src="https://user-images.githubusercontent.com/7110136/29002858-a09570d2-7ab4-11e7-8faa-5dd6d4458b0d.png" alt="Vue Router Logo" height="40"/>
   </a>
   <a href="https://vee-validate.logaretm.com/v4/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmmpsW4kNZH_HyYNPErGASQedG5anx3Bu7Q&s" alt="Vee Validation Logo" height="40"/>
+    <img src="https://raw.githubusercontent.com/logaretm/vee-validate/main/logo.png" alt="Vee Validation Logo" height="40"/>
   </a>
 </p>
 
