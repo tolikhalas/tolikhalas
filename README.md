@@ -30,6 +30,67 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tolikhalas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+## 🏄 My Top Stack
+
+<p>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="Next.js Logo" height="40px">
+  </a>
+
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzEd3FQd6Gp75JCcfWDDx_umZEt5R5Gyapg&s" alt="Zod logo" height="40px">
+  </a>
+
+  <a href="https://www.react-hook-form.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdKj0luKnS60quv6sXxn5JzSZ8Mk0kcFbAA&s" alt="react hook form" width="40"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwindcss" height="32"/>
+  </a>
+
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="Vitest Logo" height="40px">
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDlYKWwiHIBw0AwCCpREi9UdXkn0JlZkyCw&s" alt="nestjs" height="32"/>
+  </a>
+  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLpioqB5oHBOSaqjCXGu5unmOL5OmWLrDVQ&s" alt="Kafka Logo" height="40"/>
+  </a>
+
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+</p>
+
 ## 💡 What I Do
 
 ### 🎨 Frontend Development
@@ -547,22 +608,30 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 ---
 
-## ⚡ Fun facts
+## 🎉 Fun Facts
 
-- My favorite series is Money Heist 💸
-- I play the guitar 🎸
-- I hate kidney beans 🙅‍♂️
+1. **🚀 I once built a full-stack application in a weekend hackathon!** The project was a real hit and got featured in a tech blog.
+
+2. **🌍 I’ve worked with developers from 5 different continents!** Collaborating across time zones has given me a global perspective on technology and teamwork.
+
+3. **💡 I can code in 4 different programming languages!** From Python to JavaScript, I enjoy exploring various coding paradigms and tools.
+
+4. **🎨 I’ve designed logos and UI/UX for startups that are now household names.** My work has helped shape the visual identity of some exciting brands.
+
+5. **🎸 I play the guitar in my spare time.** Music and coding are my two favorite ways to express creativity!
 
 ## ✍️ Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme_/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/)
+For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/).
 
-<p align="left">
+### 📬 You can also find me on:
+
+<p>
 <a href="https://dev.to/@anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anatolii_halas" height="30" width="40" /></a>
 <a href="https://twitter.com/anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anatolii_halas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@anatolii_halas" height="30" width="40" /></a>
-<a href="https://instagram.com/@la_flxme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@la_flxme_" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/anatolii-halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anatolii_halas" height="30" width="40" /></a>
+<a href="https://instagram.com/la_flxme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la_flxme_" height="30" width="40" /></a>
+<p>
 
 ## 📊 Stats
 
