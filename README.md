@@ -207,7 +207,7 @@ My primary tools for frontend development include essential web technologies suc
 
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React logo" height="40px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="React logo" height="40px">
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s" alt="Vue.js Logo" height="40">
@@ -289,7 +289,7 @@ For form validation and data handling, I leverage powerful libraries like [Zod](
 
 ---
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React logo" height="32px"> React & React Ecosystem
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="React logo" height="32px"> React & React Ecosystem
 
 <p align="left">
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
