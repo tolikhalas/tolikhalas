@@ -399,7 +399,7 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDlYKWwiHIBw0AwCCpREi9UdXkn0JlZkyCw&s" alt="nestjs" height="32"/>
+    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -472,17 +472,16 @@ I have experience with messaging systems like [Kafka](https://kafka.apache.org) 
 
 <p align="left">
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/
-    images?q=tbn:ANd9GcSIiwZPaRHL7zqB15OkVh-aJRzqJnbBH1m7lQ&s" alt="Elasticsearch Logo" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="Elasticsearch Logo" height="40"/>
   </a>
   <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8sUBGEPUXMrwdvwtgjeJzVigjJMBh2p7Vak3LMr5YuZgw08SGEk8H_oWWebPqUagoBE&usqp=CAU" alt="Kibana Logo" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png" alt="Kibana Logo" height="40"/>
   </a>
   <a href="https://www.elastic.co/beats/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjGgxO3juXZyq1I5vkVGWmEpCXABtasG-3Q&s" alt="Beats Logo" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg" alt="Beats Logo" height="40"/>
   </a>
   <a href="https://www.elastic.co/logstash/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGoo3oQU5l57V9J_a0byPJRiaGoS386dVVQ59XGO6VNJL0WOyQyytUw2Hfs-0ZfvL3po&usqp=CAU" alt="Logstash Logo" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="Logstash Logo" height="40"/>
   </a>
 </p>
 
