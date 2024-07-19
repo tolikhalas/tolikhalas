@@ -92,7 +92,7 @@
   </a>
 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDlYKWwiHIBw0AwCCpREi9UdXkn0JlZkyCw&s" alt="nestjs" height="32"/>
+    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" height="32"/>
   </a>
   <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM Logo" width="40" height="40"/>
