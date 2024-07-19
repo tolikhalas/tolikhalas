@@ -531,8 +531,7 @@ My expertise in [Nest.js](https://nestjs.com/) includes using [TypeORM](https://
     <img src="https://user-images.githubusercontent.com/6927678/36393573-789e7bc2-15b0-11e8-9a31-49f58e03a5c9.png" alt="Django Channels Logo" height="40"/>
   </a>
   <a href="https://django-allauth.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/
-    images?q=tbn:ANd9GcTo8X4mniWGqDPb_-T7-ooamda-ZiB2s3d0uA&s" alt="Django Allauth Logo" width="40" height="40"/>
+    <img alt="django-allauth logo" src="https://camo.githubusercontent.com/eb879ba625bd89d03914a0c67783cec0fb6b605489810fb4ca1ebd1e6ab3ea4d/68747470733a2f2f636f6465626572672e6f72672f616c6c617574682f616c6c617574682e6f72672f7261772f636f6d6d69742f646133623536333930653162313865616563303962303563643839646661373831323231326466632f636f6e74656e742f6e6577732f323032342f30342f776562736974652d726564657369676e2f6c6f676f2d6c696768742e706e67" data-canonical-src="https://codeberg.org/allauth/allauth.org/raw/commit/da3b56390e1b18eaec09b05cd89dfa7812212dfc/content/news/2024/04/website-redesign/logo-light.png" height="40">
   </a>
   <a href="https://django-oauth-toolkit.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvxUZhY_4fJrjtr6GofrhFyGl99-NYVxaKA&s" alt="Django OAuth Toolkit Logo" width="40" height="40"/>
