@@ -272,6 +272,13 @@ I specialize in [Next.js](https://nextjs.org/) and its ecosystem, including [Nex
   </a>
 </p>
 
+| Technology   | Years of exprience | Proficiency |
+| ------------ | ------------------ | ----------- |
+| Vuex         | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Pinia        | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Vue Router   | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Vee Validate | 2.5 years          | ⭐⭐⭐⭐⭐  |
+
 My proficiency in [Vue.js](https://vuejs.org/) extends to its ecosystem, including state management with [Vuex](https://vuex.vuejs.org/) and [Pinia](https://pinia.vuejs.org/), routing with [Vue Router](https://router.vuejs.org/), and form validation with [Vee Validate](https://vee-validate.logaretm.com).
 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ494s97h7aVykAjvgNeKOGnjjgUPqCAP_BA&s" alt="Nuxt.js Logo" height="32px"> Nuxt.js & Nuxt.js Ecosystem
@@ -284,6 +291,10 @@ My proficiency in [Vue.js](https://vuejs.org/) extends to its ecosystem, includi
 
 I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including [Nuxt Auth](https://nuxt-3-auth.github.io/) for authentication.
 
+| Technology | Years of exprience | Proficiency |
+| ---------- | ------------------ | ----------- |
+| Nuxt Auth  | 2.5 years          | ⭐⭐⭐⭐⭐  |
+
 ---
 
 ## 👨‍💻 Backend
@@ -291,8 +302,7 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
 ### 🥇 Primary tools
 
 <p align="left">
-  <a href="https://www.python.org
-  " target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -315,6 +325,18 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+My primary backend development tools include [Python](https://www.python.org), [PHP](https://www.php.net), [Node.js](https://nodejs.org), and frameworks like [NestJS](https://nestjs.com/), [Express](https://expressjs.com), [Django](https://www.djangoproject.com/), and [Laravel](https://laravel.com/).
+
+| Technology | Years of exprience | Proficiency |
+| ---------- | ------------------ | ----------- |
+| Python     | 3 years            | ⭐⭐⭐⭐⭐  |
+| PHP        | 2 years            | ⭐⭐⭐⭐⭐  |
+| Node.js    | 3 years            | ⭐⭐⭐⭐⭐  |
+| Nest.js    | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Express    | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Django     | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Laravel    | 2.5 years          | ⭐⭐⭐⭐⭐  |
+
 ### 🗃️ Databases
 
 <p align="left">
@@ -332,6 +354,15 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+I am proficient in working with databases such as [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io), [PostgreSQL](https://www.postgresql.org), and [MySQL](https://www.mysql.com/).
+
+| Technology | Years of exprience | Proficiency |
+| ---------- | ------------------ | ----------- |
+| MongoDB    | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Redis      | 2 years            | ⭐⭐⭐⭐⭐  |
+| PostgreSQL | 3 years            | ⭐⭐⭐⭐⭐  |
+| MySQL      | 3 years            | ⭐⭐⭐⭐⭐  |
+
 ### 📨 Messaging
 
 <p align="left">
@@ -343,11 +374,19 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+I have experience with messaging systems like [Kafka](https://kafka.apache.org) and [RabbitMQ](https://www.rabbitmq.com/) for building robust and scalable applications.
+
+| Technology | Years of exprience | Proficiency |
+| ---------- | ------------------ | ----------- |
+| Kafka      | 2 years            | ⭐⭐⭐⭐⭐  |
+| RabbitMQ   | 2 years            | ⭐⭐⭐⭐⭐  |
+
 ### 🔎 Search & Analytics
 
 <p align="left">
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIiwZPaRHL7zqB15OkVh-aJRzqJnbBH1m7lQ&s" alt="Elasticsearch Logo" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/
+    images?q=tbn:ANd9GcSIiwZPaRHL7zqB15OkVh-aJRzqJnbBH1m7lQ&s" alt="Elasticsearch Logo" height="40"/>
   </a>
   <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8sUBGEPUXMrwdvwtgjeJzVigjJMBh2p7Vak3LMr5YuZgw08SGEk8H_oWWebPqUagoBE&usqp=CAU" alt="Kibana Logo" height="40"/>
@@ -360,11 +399,23 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+I utilize [Elasticsearch](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIiwZPaRHL7zqB15OkVh-aJRzqJnbBH1m7lQ&s), [Kibana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8sUBGEPUXMrwdvwtgjeJzVigjJMBh2p7Vak3LMr5YuZgw08SGEk8H_oWWebPqUagoBE&usqp=CAU), [Beats](https://www.elastic.co/beats/), and [Logstash](https://www.elastic.co/logstash/) for search and analytics in my applications.
+
+| Technology    | Years of exprience | Proficiency |
+| ------------- | ------------------ | ----------- |
+| Elasticsearch | 1.5 years          | ⭐⭐⭐⭐⭐  |
+| Kibana        | 1.5 years          | ⭐⭐⭐⭐⭐  |
+| Beats         | 1.5 years          | ⭐⭐⭐⭐    |
+| Logstash      | 1.5 years          | ⭐⭐⭐⭐⭐  |
+
 ### <img src="https://nestjs.com/img/logo-small.svg" alt="Nest.js Logo" height="36px"> Nest.js
 
 <p align="left">
   <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://docs.nestjs.com/security/authentication" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="Nest JWT Logo" width="40" height="40"/>
@@ -377,6 +428,16 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+My expertise in [Nest.js](https://nestjs.com/) includes using [TypeORM](https://typeorm.io/), [Mongoose](https://mongoosejs.com/), [JWT](https://jwt.io/) for authentication, [Nest microservices](https://docs.nestjs.com/microservices/basics), and [BullMQ](https://docs.bullmq.io/) for task queues.
+
+| Technology         | Years of exprience | Proficiency |
+| ------------------ | ------------------ | ----------- |
+| TypeORM            | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Mongoose           | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| JWT                | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Nest Microservices | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| BullMQ             | 2 years            | ⭐⭐⭐⭐⭐  |
+
 ### <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="36"/> Django & Django Rest Framework
 
 <p align="left">
@@ -384,7 +445,8 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
     <img src="https://user-images.githubusercontent.com/6927678/36393573-789e7bc2-15b0-11e8-9a31-49f58e03a5c9.png" alt="Django Channels Logo" height="40"/>
   </a>
   <a href="https://django-allauth.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8X4mniWGqDPb_-T7-ooamda-ZiB2s3d0uA&s" alt="Django Allauth Logo" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/
+    images?q=tbn:ANd9GcTo8X4mniWGqDPb_-T7-ooamda-ZiB2s3d0uA&s" alt="Django Allauth Logo" width="40" height="40"/>
   </a>
   <a href="https://django-oauth-toolkit.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvxUZhY_4fJrjtr6GofrhFyGl99-NYVxaKA&s" alt="Django OAuth Toolkit Logo" width="40" height="40"/>
@@ -394,6 +456,15 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+I am skilled in [Django](https://www.djangoproject.com/) and its ecosystem, including [Django Channels](https://channels.readthedocs.io/en/stable/), [Django Allauth](https://django-allauth.readthedocs.io/en/latest/), [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/), and [Celery](https://docs.celeryproject.org/en/stable/) for task management.
+
+| Technology           | Years of exprience | Proficiency |
+| -------------------- | ------------------ | ----------- |
+| Django Channels      | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Django Allauth       | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Django OAuth Toolkit | 2.5 years          | ⭐⭐⭐⭐⭐  |
+| Celery               | 2.5 years          | ⭐⭐⭐⭐⭐  |
+
 ### <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" height="32px"> Laravel & Ecosystem
 
 <p align="left">
@@ -401,6 +472,20 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvxUZhY_4fJrjtr6GofrhFyGl99-NYVxaKA&s" alt="Inertia Logo" width="40" height="40"/>
   </a>
 </p>
+
+I have experience with [Laravel](https://laravel.com/) and its ecosystem, including [Inertia.js](https://inertiajs.com/) for building modern web applications. My expertise extends to various Laravel technologies such as [Laravel Sanctum](https://laravel.com/docs/8.x/sanctum) for API token authentication and simple SPA authentication without the complexity of OAuth, [Laravel Passport](https://laravel.com/docs/8.x/passport) for a full OAuth2 server implementation enabling advanced authentication and authorization, [Laravel Echo](https://laravel.com/docs/8.x/broadcasting) for real-time event broadcasting to build interactive, real-time web applications, [Laravel Cache](https://laravel.com/docs/8.x/cache) for efficient data caching to improve application performance and reduce database load, [Laravel Valet](https://laravel.com/docs/8.x/valet) for a local development environment tailored for macOS, enabling quick and easy development setup, [Laravel Sail](https://laravel.com/docs/8.x/sail) for a Docker-based development environment to streamline local development across different systems, [Laravel Dusk](https://laravel.com/docs/8.x/dusk) for end-to-end testing with browser automation to ensure your application's UI works as expected, and [Laravel Telescope](https://laravel.com/docs/8.x/telescope) for monitoring and debugging your application, providing insights into requests, exceptions, logs, and more.
+
+| Technology        | Years of exprience | Proficiency |
+| ----------------- | ------------------ | ----------- |
+| Inertia.js        | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Sanctum   | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Passport  | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Echo      | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Cache     | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Valet     | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Sail      | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Dusk      | 2 years            | ⭐⭐⭐⭐⭐  |
+| Laravel Telescope | 2 years            | ⭐⭐⭐⭐⭐  |
 
 ---
 
@@ -424,6 +509,16 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
   </a>
 </p>
 
+My primary DevOps tools include [AWS](https://aws.amazon.com), [Docker](https://www.docker.com/), [Jenkins](https://www.jenkins.io), [Kubernetes](https://kubernetes.io), and [Google Cloud](https://cloud.google.com). These tools help manage cloud infrastructure, automate deployments, and maintain scalable systems.
+
+| Technology   | Years of Experience | Proficiency Level |
+| ------------ | ------------------- | ----------------- |
+| AWS          | 2                   | ⭐⭐⭐⭐⭐        |
+| Docker       | 2                   | ⭐⭐⭐⭐⭐        |
+| Jenkins      | 2                   | ⭐⭐⭐⭐          |
+| Kubernetes   | 0.5                 | ⭐⭐⭐            |
+| Google Cloud | 2                   | ⭐⭐⭐⭐          |
+
 ## 🛠️ Tools
 
 <p align="left">
@@ -440,6 +535,15 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
+
+My go-to tools for development and design are [Git](https://git-scm.com/), [Linux](https://www.linux.org/), [Figma](https://www.figma.com/), and [Photoshop](https://www.photoshop.com/en). These tools are essential for version control, operating systems, UI/UX design, and image editing.
+
+| Technology | Years of Experience | Proficiency Level |
+| ---------- | ------------------- | ----------------- |
+| Git        | 4                   | ⭐⭐⭐⭐⭐        |
+| Linux      | 4                   | ⭐⭐⭐⭐⭐        |
+| Figma      | 2                   | ⭐⭐⭐⭐          |
+| Photoshop  | 6                   | ⭐⭐⭐⭐⭐        |
 
 ---
 
