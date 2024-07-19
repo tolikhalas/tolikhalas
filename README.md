@@ -299,7 +299,7 @@ For form validation and data handling, I leverage powerful libraries like [Zod](
     <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" height="40"/>
   </a>
   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPerFzy0cyzGWrsq-Tf5CJ5zHQW6RLdeOzA&s" alt="react tourter" height="40"/>
+    <img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" alt="react tourter" height="40"/>
   </a>
   <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://uploads.codesandbox.io/uploads/user/22c1ff45-7e50-47af-a005-94a53eca9484/4LfS-thumbnail.png" alt="swr" height="40"/>
