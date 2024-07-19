@@ -64,7 +64,7 @@
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="Next.js Logo" height="40px">
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js Logo" height="40px">
   </a>
 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
   </a>
 
   <a href="https://zod.dev/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzEd3FQd6Gp75JCcfWDDx_umZEt5R5Gyapg&s" alt="Zod logo" height="40px">
+    <img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod logo" height="40px">
   </a>
 
   <a href="https://www.react-hook-form.com/" target="_blank" rel="noreferrer">
@@ -213,7 +213,7 @@ My primary tools for frontend development include essential web technologies suc
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s" alt="Vue.js Logo" height="40">
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="Next.js Logo" height="40px">
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js Logo" height="40px">
   </a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ494s97h7aVykAjvgNeKOGnjjgUPqCAP_BA&s" alt="Nuxt.js Logo" height="32px">
@@ -273,7 +273,7 @@ I utilize [Axios](https://axios-http.com/) for efficient and reliable data fetch
 
 <p align="left">
   <a href="https://zod.dev/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzEd3FQd6Gp75JCcfWDDx_umZEt5R5Gyapg&s" alt="Zod logo" height="40px">
+    <img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod logo" height="40px">
   </a>
   <a href="https://formik.org/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/formik-icon-1024x1024-deyd4zqw.png" alt="Formik Logo" width="40" height="40"/>
@@ -324,7 +324,7 @@ I am skilled in using the React ecosystem, including state management libraries 
 | Tanstack Query      | 2 years            | ⭐⭐⭐⭐⭐  |
 | React Hook Form     | 2.2 years          | ⭐⭐⭐⭐⭐  |
 
-### <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="Next.js Logo" height="40px"> Next.js & Next.js Ecosystem
+### <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js Logo" height="40px"> Next.js & Next.js Ecosystem
 
 <p align="left">
   <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">
