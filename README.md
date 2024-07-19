@@ -64,7 +64,7 @@
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next.js Logo" height="40px">
+    <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px">
   </a>
 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -213,7 +213,7 @@ My primary tools for frontend development include essential web technologies suc
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s" alt="Vue.js Logo" height="40">
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next.js Logo" height="40px">
+    <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px">
   </a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ494s97h7aVykAjvgNeKOGnjjgUPqCAP_BA&s" alt="Nuxt.js Logo" height="32px">
@@ -324,7 +324,7 @@ I am skilled in using the React ecosystem, including state management libraries 
 | Tanstack Query      | 2 years            | ⭐⭐⭐⭐⭐  |
 | React Hook Form     | 2.2 years          | ⭐⭐⭐⭐⭐  |
 
-### <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next.js Logo" height="40px"> Next.js & Next.js Ecosystem
+### <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px"> Next.js & Next.js Ecosystem
 
 <p align="left">
   <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">
