@@ -10,6 +10,32 @@
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies.
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
 
+```js
+  import { proficiency } from "@typescript/nestjs"
+  import { relability } from "@python/django"
+  import { innovation } from "@php/laravel"
+
+  import { HighProfit, Enhance } from "@my/experience"
+
+  @Module({
+    imports: [proficiency, relability, innovation]
+  })
+  export class AnatoliiHalas implements ProDev {
+
+    constructor(
+      @Inject("🏛️ Robust code")
+      yourProduct: HighProfit,
+      @Inject("❤️‍🔥 Passion")
+      myAttitude: Enhance,
+    ) {}
+
+    public develop() {
+      return myAttitude.prettify(yourProduct)
+    }
+
+  }
+```
+
 ### 🧭 Stay in touch
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
