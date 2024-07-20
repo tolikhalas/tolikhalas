@@ -41,8 +41,8 @@
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
 <p>
-  <span>🌐 Check my website </span>
-  <span style="color: gray;"> 👷 In progress...</span>
+  <span><a href="https://tolikhalas.vercel.app/" alt="Anatolii Halas Portfolio Website">🌐 Check my website</a></span>
+  <span style="color: gray;"> 👷 Still In progress...</span>
 </p>
 
 <p align="left">
