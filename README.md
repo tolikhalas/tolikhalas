@@ -60,7 +60,7 @@
 
 ## 🏄 My Top Stack
 
-[![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark&perline=12)](https://skillicons.dev)
+[![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
 ## 💡 What I Do
 
