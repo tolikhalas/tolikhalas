@@ -10,7 +10,7 @@
     <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/anatolii_halas?label=Tweat me&color=222222&logo=eye&logoColor=white&style=for-the-badge&labelColor=black"/>
   </a>
   <a href="https://tolikhalas.vercel.com">
-    <img alt="portfolio website" title="Visit my website" src="https://img.shields.io/badge/-Visit my website-306B34?style=for-the-badge&logo=vercel&logoColor=white&link=mailto:tolikgalas@gmail.com"/>
+    <img alt="portfolio website" title="Visit my website" src="https://img.shields.io/badge/-Visit my website-DDE0BD?style=for-the-badge&logo=vercel&logoColor=black&link=mailto:tolikgalas@gmail.com"/>
   </a>
   <a href="https://mailto:tolikgalas@gmail.com">
     <img alt="twitter account" title="Mail me on gmail" src="https://img.shields.io/badge/- Mail me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tolikgalas@gmail.com"/>
