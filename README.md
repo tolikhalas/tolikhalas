@@ -33,7 +33,7 @@
   <img width="48.6%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
 </p>
 
-## 🙋 Who I am
+## <img src="/img/emojis/person_raising_hand.gif" alt="animated person raising hand emoji" height="32px"> Who I am
 
 🧑‍🎤 Hi there! I'm a passionate and experienced full stack developer with:
 
