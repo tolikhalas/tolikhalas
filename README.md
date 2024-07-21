@@ -33,7 +33,7 @@
   <img width="48.6%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
 </p>
 
-## <img src="/img/emojis/person_raising_hand.gif" alt="animated person raising hand emoji" height="32px"> Who I am
+## <img src="/img/emojis/person-raising-hand.gif" alt="animated person raising hand emoji" height="32px"> Who I am
 
 🧑‍🎤 Hi there! I'm a passionate and experienced full stack developer with:
 
@@ -67,7 +67,7 @@
   }
 ```
 
-## 🧭 Check my website
+## <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="24px"> Check my website
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
@@ -90,7 +90,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tolikhalas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## 🏄 My Top Stack
+## <img src="./img/emojis/electricity.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
 
 [![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
