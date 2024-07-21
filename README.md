@@ -25,10 +25,12 @@
 
   <img align="rigth" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolikhalas&theme=blue_navy&langs_count=3&hide=css" alt="tolikhalas" />
 
-  <img align="left" width="47.6%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=tolikhalas&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-right: 10px"/>
+  <img align="left" width="47.65%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=tolikhalas&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-right: 10px"/>
 
-  <img align="left" width="47.6%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
+  <img align="left" width="47.65%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
 </p>
+
+<p> </p>
 
 ### 🙋 Who I am
 
