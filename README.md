@@ -20,6 +20,8 @@
 
 </p>
 
+## ✨ Highlights
+
 <p align="left">
   <img width="60.25%" src="https://github-readme-stats.vercel.app/api?username=tolikhalas&show_icons=true&theme=ambient_gradient&locale=en" alt="tolikhalas" style="margin-right: 10px;"/>
 
