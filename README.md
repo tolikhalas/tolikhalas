@@ -2,7 +2,25 @@
 
 **` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89;%F0%9F%8F%97%EF%B8%8F+Craft+software+daily+%F0%9F%94%A8;%F0%9F%92%86%E2%80%8D%E2%99%82%EF%B8%8F+Passionate+Developer+%26+Tech+Enthusiast+%F0%9F%8D%99;%F0%9F%A4%9D+Open+Source+Contributor+%26+Collaborator+%F0%9F%91%B7;%F0%9F%9B%A0%EF%B8%8F+Let's+Code+Something+Amazing+Together!+%F0%9F%92%BB)](https://git.io/typing-svg)
+<p align="left">
+  <a href="https://www.linkedin.com/in/anatolii-halas/">
+    <img alt="LinkedIn profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/anatolii_halas">
+    <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/anatolii_halas?label=Tweat me&color=222222&logo=eye&logoColor=white&style=for-the-badge&labelColor=black"/>
+  </a>
+  <a href="https://tolikhalas.vercel.com">
+    <img alt="portfolio website" title="Visit my website" src="https://img.shields.io/badge/-Visit my website-306B34?style=for-the-badge&logo=vercel&logoColor=white&link=mailto:tolikgalas@gmail.com"/>
+  </a>
+  <a href="https://mailto:tolikgalas@gmail.com">
+    <img alt="twitter account" title="Mail me on gmail" src="https://img.shields.io/badge/- Mail me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tolikgalas@gmail.com"/>
+  </a>
+  <a href="https://www.instagram.com/la_flxme_/">
+    <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/- Follow me-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/la_flxme_/"/></a>
+
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89;%F0%9F%8F%97%EF%B8%8F+Craft+software+daily+%F0%9F%94%A8;%F0%9F%92%86%E2%80%8D%E2%99%82%EF%B8%8F+Passionate+Developer+%26+Tech+Enthusiast+%F0%9F%8D%99;%F0%9F%A4%9D+Open+Source+Contributor+%26+Collaborator+%F0%9F%91%B7;%F0%9F%9B%A0%EF%B8%8F+Let's+Code+Something+Amazing+Together!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ### 🙋 Who I am
 
