@@ -20,7 +20,15 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89;%F0%9F%8F%97%EF%B8%8F+Craft+software+daily+%F0%9F%94%A8;%F0%9F%92%86%E2%80%8D%E2%99%82%EF%B8%8F+Passionate+Developer+%26+Tech+Enthusiast+%F0%9F%8D%99;%F0%9F%A4%9D+Open+Source+Contributor+%26+Collaborator+%F0%9F%91%B7;%F0%9F%9B%A0%EF%B8%8F+Let's+Code+Something+Amazing+Together!+%F0%9F%92%BB)](https://git.io/typing-svg)
+<p width="100%">
+  <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=tolikhalas&show_icons=true&theme=ambient_gradient&locale=en" alt="tolikhalas" style="margin-right: 10px;"/>
+
+  <img align="rigth" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolikhalas&theme=blue_navy&langs_count=3&hide=css" alt="tolikhalas" />
+
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=tolikhalas&theme=blue_navy" alt="tolikhalas" style="margin-top: 2px; margin-right: 10px"/>
+
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 2px; margin-bottom: 20px;"/>
+</p>
 
 ### 🙋 Who I am
 
@@ -625,7 +633,5 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme/) 
 ## 📊 Stats
 
 <p align="left">
-  <p width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolikhalas&show_icons=true&locale=en" alt="tolikhalas" /></p>
-
   <p width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolikhalas&" alt="tolikhalas" /></p>
 </p>
