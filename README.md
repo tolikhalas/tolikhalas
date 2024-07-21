@@ -1,4 +1,4 @@
-## Hi 👋, I'm Anatolii Halas
+## Hi <img src="./img/emojis/wave.webp" height="28px" alt="animated wave emoji">, I'm Anatolii Halas
 
 **` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
@@ -16,11 +16,12 @@
     <img alt="twitter account" title="Mail me on gmail" src="https://img.shields.io/badge/- Mail me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tolikgalas@gmail.com"/>
   </a>
   <a href="https://www.instagram.com/la_flxme_/">
-    <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/- Follow me-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/la_flxme_/"/></a>
+    <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/- Follow me-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/la_flxme_/"/>
+  </a>
 
 </p>
 
-## ✨ Highlights
+## <img src="./img/emojis/sparkles.webp" alt="animated sparks emoji" height="24px"> Highlights
 
 <p align="left">
   <img width="60.25%" src="https://github-readme-stats.vercel.app/api?username=tolikhalas&show_icons=true&theme=ambient_gradient&locale=en" alt="tolikhalas" style="margin-right: 10px;"/>
@@ -66,7 +67,7 @@
   }
 ```
 
-## 🧭 Stay in touch
+## 🧭 Check my website
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
