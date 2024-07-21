@@ -20,17 +20,15 @@
 
 </p>
 
-<p width="100%">
-  <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=tolikhalas&show_icons=true&theme=ambient_gradient&locale=en" alt="tolikhalas" style="margin-right: 10px;"/>
+<p align="left">
+  <img width="60.25%" src="https://github-readme-stats.vercel.app/api?username=tolikhalas&show_icons=true&theme=ambient_gradient&locale=en" alt="tolikhalas" style="margin-right: 10px;"/>
 
-  <img align="rigth" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolikhalas&theme=blue_navy&langs_count=3&hide=css" alt="tolikhalas" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolikhalas&theme=blue_navy&langs_count=3&hide=css" alt="tolikhalas" />
 
-  <img align="left" width="47.65%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=tolikhalas&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-right: 10px"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=tolikhalas&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-right: 10px"/>
 
-  <img align="left" width="47.65%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
 </p>
-
-<p> </p>
 
 ### 🙋 Who I am
 
