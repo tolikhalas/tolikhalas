@@ -94,7 +94,7 @@
 
 [![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
-## 💡 What I Do
+## <img src="./img/emojis/light-bulb.webp" alt="Animated light bulb emoji" height="24px"> What I Do
 
 ### 🎨 Frontend Development
 
@@ -124,7 +124,7 @@
 - ⚙️ Conduct thorough unit and integration testing with [Mocha](https://mochajs.org), [Jest](https://jestjs.io), and [Vitest](https://vitest.dev).
 - 📈 Optimize frontend assets with [Webpack](https://webpack.js.org), [Esbuild](https://esbuild.github.io), and [Vite](https://vitejs.dev), improving performance and reducing load times.
 
-### 💃 Animation & Graphics
+### <img src="./img/emojis/dancer_woman.webp" alt="animated dancer woman emoji" height="24px"> Animation & Graphics
 
 - Utilize [Gsap](https://greensock.com/gsap), [Framer Motion](https://www.framer.com/motion), and [Three.js](https://threejs.org) for engaging animations.
 
