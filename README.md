@@ -7,7 +7,7 @@
     <img alt="LinkedIn profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/>
   </a>
   <a href="https://x.com/anatolii_halas">
-    <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/anatolii_halas?label=Tweat me&color=222222&logo=eye&logoColor=white&style=for-the-badge&labelColor=black"/>
+    <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://img.shields.io/badge/-Follow%20me%20on%20X.com-black?style=for-the-badge&logo=X&logoColor=whith&link=mailto:tolikgalas@gmail.com"/>
   </a>
   <a href="https://tolikhalas.vercel.com">
     <img alt="portfolio website" title="Visit my website" src="https://img.shields.io/badge/-Visit my website-DDE0BD?style=for-the-badge&logo=vercel&logoColor=black&link=mailto:tolikgalas@gmail.com"/>
@@ -32,7 +32,7 @@
   <img width="48.6%" src="https://github-readme-stats.vercel.app/api/pin/?username=tolikhalas&repo=portfolio&theme=blue_navy" alt="tolikhalas" style="margin-top: 20px; margin-bottom: 20px;"/>
 </p>
 
-### 🙋 Who I am
+## 🙋 Who I am
 
 🧑‍🎤 Hi there! I'm a passionate and experienced full stack developer with:
 
@@ -66,12 +66,15 @@
   }
 ```
 
-### 🧭 Stay in touch
+## 🧭 Stay in touch
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
 <p>
-  <span><a href="https://tolikhalas.vercel.app/" alt="Anatolii Halas Portfolio Website">🌐 Check my website</a></span>
+  <span>
+    <a href="https://tolikhalas.vercel.app/" alt="Anatolii Halas Portfolio Website">
+      <span>🌐 Hit my website</span>
+  </span>
   <span style="color: gray;"> 👷 Still In progress...</span>
 </p>
 
