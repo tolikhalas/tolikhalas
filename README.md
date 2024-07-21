@@ -163,7 +163,7 @@
 
 - 📫 How to reach me **tolikgalas@gmail.com**
 
-## 🧰 Tech Stack
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" width="32px" height="32" /> Tech Stack 
 
 ## 👩‍🎤 Frontend
 
