@@ -60,64 +60,7 @@
 
 ## 🏄 My Top Stack
 
-<p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px">
-  </a>
-
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-
-  <a href="https://zod.dev/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod logo" height="40px">
-  </a>
-
-  <a href="https://www.react-hook-form.com/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="react hook form" width="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" height="32"/>
-  </a>
-
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="Vitest Logo" height="40px">
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40 "/>
-  </a>
-
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" height="40"/>
-  </a>
-  <a href="https://typeorm.io/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-
-  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLpioqB5oHBOSaqjCXGu5unmOL5OmWLrDVQ&s" alt="Kafka Logo" height="40"/>
-  </a>
-
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+[![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark&perline=10)](https://skillicons.dev)
 
 ## 💡 What I Do
 
@@ -163,7 +106,7 @@
 
 - 📫 How to reach me **tolikgalas@gmail.com**
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" width="32px" height="32" /> Tech Stack 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" width="32px" height="32" /> Tech Stack
 
 ## 👩‍🎤 Frontend
 
