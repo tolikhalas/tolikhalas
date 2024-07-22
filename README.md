@@ -124,11 +124,11 @@
 - ⚙️ Conduct thorough unit and integration testing with [Mocha](https://mochajs.org), [Jest](https://jestjs.io), and [Vitest](https://vitest.dev).
 - 📈 Optimize frontend assets with [Webpack](https://webpack.js.org), [Esbuild](https://esbuild.github.io), and [Vite](https://vitejs.dev), improving performance and reducing load times.
 
-### <img src="./img/emojis/dancer_woman.webp" alt="animated dancer woman emoji" height="24px"> Animation & Graphics
+### <img src="./img/emojis/dancer-woman.webp" alt="animated dancer woman emoji" height="24px"> Animation & Graphics
 
 - Utilize [Gsap](https://greensock.com/gsap), [Framer Motion](https://www.framer.com/motion), and [Three.js](https://threejs.org) for engaging animations.
 
-## 🎯 Milestones
+## <img src="./img/emojis/target.webp" alt="Animated target emoji" height="24px"> Milestones
 
 - 🔭 I’m currently working on JS animation library
 
@@ -623,11 +623,11 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 6. **<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" alt="Arch Linux Logo" height="16px"> I use arch by the way...**
 
-## ✍️ Contact
+## <img src="./img/emojis/writing_hand.gif" alt="Animated writing emoji" height="32px"> Contact
 
 For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/).
 
-### 📬 You can also find me on:
+### 📬 You can also find me on
 
 <p>
 <a href="https://dev.to/@anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anatolii_halas" height="30" width="40" /></a>
