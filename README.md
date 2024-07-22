@@ -47,7 +47,7 @@ Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorce
   </a>
   ///
   <a href="#who-i-am">
-    <img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px" width="20px">
+    <img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px">
     <span>Who I am</span>
   ///
   <a href="#check-my-website">
