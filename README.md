@@ -26,9 +26,16 @@
   </a>
 </p>
 
+Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorcerer 🧙‍♂️
+
+
+## <img src="./img/emojis/100.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
+
+[![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
+
 ## <img src="./img/emojis/rocket.webp" alt="Animated Rocker emoji" height="24px"> Jump to
 
-[<img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px"> Highlights](#who-i-am) | [<img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px"> Who I am](#who-i-am) | [<img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="20px"> Check my website](#check-my-website) | [<img src="./img/emojis/100.webp" alt="Animated 100 emoji" height="20px"> My Top Stack](#my-top-stack) | [<img src="./img/emojis/light-bulb.webp" alt="Animated light bulb emoji" height="20px"> What I Do](#what-i-do) | [<img src="./img/emojis/target.webp" alt="Animated target emoji" height="20px"> Milestones](#milestones) | [<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" height="20px" /> Tech Stack](#tech-stack) | [<img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="20px"> Fun Facts](#fun-facts) | [<img src="./img/emojis/writing_hand.gif" alt="Animated writing hand emoji" height="20px"> Contact](#contact) | [<img src="./img/emojis/trophy.gif" alt="Animated trophy emoji" height="20px"> Stats](#-stats)
+[<img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px"> Highlights](#who-i-am) /// [<img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px"> Who I am](#who-i-am) /// [<img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="20px"> Check my website](#check-my-website) /// [<img src="./img/emojis/light-bulb.webp" alt="Animated light bulb emoji" height="20px"> What I Do](#what-i-do) /// [<img src="./img/emojis/rainbow.webp" alt="Animated person raising hand emoji" height="20px"> My Approach](#my-approach) /// [<img src="./img/emojis/target.webp" alt="Animated target emoji" height="20px"> Milestones](#milestones) /// [<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" height="20px" /> Tech Stack](#tech-stack) /// [<img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="20px"> Fun Facts](#fun-facts) /// [<img src="./img/emojis/writing_hand.gif" alt="Animated writing hand emoji" height="20px"> Contact](#contact) /// [<img src="./img/emojis/trophy.gif" alt="Animated trophy emoji" height="20px"> Stats](#-stats)
 
 ## <img src="./img/emojis/sparkles.webp" alt="animated sparks emoji" height="24px"> Highlights
 
@@ -49,6 +56,16 @@
 - 🎖️ Proven track record of delivering high-performance web and mobile applications.
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies.
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
+
+### 💅 What and why
+
+🎭 My mission? Transforming ideas into captivating, user-centric realities that'll make your pixels dance! 💃🕺
+
+🏗️ Whether I'm architecting robust backend castles or painting elegant UI landscapes, I'm always ready for the next thrilling quest in our ever-evolving digital realm.
+
+🌟 Buckle up and let's embark on a code adventure that'll push the boundaries of what's possible! Ready to make some tech magic? Let's go! ✨
+
+## <img src="./img/emojis/rainbow.webp" alt="Animated person raising hand emoji" height="32px"> My Approach
 
 ```js
   import { proficiency } from "@typescript/nestjs"
@@ -85,10 +102,6 @@
 <a href="https://tolikhalas.vercel.com" title="Visit Anatolii Halas Portrolio website">
   <img src="./img/Anatolii&apos;s Portfolio - Features.webp" alt="Anatolii Halas Portrolio website">
 </a>
-
-## <img src="./img/emojis/100.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
-
-[![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
 ## <img src="./img/emojis/light-bulb.webp" alt="Animated light bulb emoji" height="24px"> What I Do
 
