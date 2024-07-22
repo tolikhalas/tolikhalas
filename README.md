@@ -26,7 +26,7 @@
   </a>
 </p>
 
-Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorcerer 🧙‍♂️
+> Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorcerer 🧙‍♂️
 
 🎭 My mission? Transforming ideas into captivating, user-centric realities that'll make your pixels dance! 💃🕺
 
