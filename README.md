@@ -1,6 +1,6 @@
 ## Hi <img src="./img/emojis/wave.webp" height="28px" alt="animated wave emoji">, I'm Anatolii Halas
 
-**` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
+**` 👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
 <p align="center">
   <a href="https://docs.google.com/document/d/1l2-G9OxxXS0AbD4pS7CvRLgU4wpUAxfj2oRyiKeDKNw/edit?usp=sharing">
@@ -25,6 +25,10 @@
     <img alt="telegram account" title="Write me on telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
+
+## <img src="./img/emojis/rocket.webp" alt="Animated Rocker emoji" height="24px"> Jump to
+
+[👨‍💻 Who I am](#who-i-am) | [👀 Check my website](#check-my-website) | [💯 My Top Stack](#my-top-stack) | [💡 What I Do](#what-i-do) | [🎯 Milestones](#milestones) | [🛠️ Tech Stack](#tech-stack) | 🎉 [Fun Facts](#fun-facts) | [✍️ Contact](#contact) | [📊 Stats](#-stats)
 
 ## <img src="./img/emojis/sparkles.webp" alt="animated sparks emoji" height="24px"> Highlights
 
@@ -136,7 +140,7 @@
 
 ### 🥇 Primary tools
 
-[![ 🎨🥇Frontend Primary Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,tailwindcss,bootstrap)](https://skillicons.dev)
+[![🎨🥇Frontend Primary Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,tailwindcss,bootstrap)](https://skillicons.dev)
 
 My primary tools for frontend development include essential web technologies such as [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [HTML](https://raw.githubusercontent.com/devicons), [CSS](https://www.w3schools.com/css/), and popular frameworks like [Sass](https://sass-lang.com), [TailwindCSS](https://tailwindcss.com/), and [Bootstrap](https://getbootstrap.com).
 
@@ -152,20 +156,7 @@ My primary tools for frontend development include essential web technologies suc
 
 ### 🌐 Frameworks
 
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="React logo" height="40px">
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" alt="Vue.js Logo" height="40">
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="Next.js Logo" height="40px">
-  </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1024px-Nuxt_logo.svg.png?20201218211241" alt="Nuxt.js Logo" height="32px">
-  </a>
-</p>
+[![📱🧰Frontend Frameworks](https://skillicons.dev/icons?i=react,vue,next,nuxt)](https://skillicons.dev)
 
 I am proficient in using modern JavaScript frameworks such as [React](https://react.dev/), [Vue.js](https://vuejs.org/), [Next.js](https://nextjs.org/), and [Nuxt.js](https://nuxt.com/) to build dynamic and responsive user interfaces.
 
@@ -178,20 +169,7 @@ I am proficient in using modern JavaScript frameworks such as [React](https://re
 
 ### 🧪 Testing
 
-<p align="left">
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest logo" height="40px">
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-  </a>
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="Vitest Logo" height="40px">
-  </a>
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="https://testing-library.com/img/logo-large.png" alt="Testing Library Logo" height="40px">
-  </a>
-</p>
+[![🧪Frontend Testing](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
 
 I have experience with various testing libraries and frameworks, including [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Vitest](https://vitest.dev/), and [Testing Library](https://testing-library.com/), to ensure the reliability and quality of my code.
 
@@ -335,29 +313,7 @@ I have experience with [Nuxt.js](https://nuxt.com/) and its ecosystem, including
 
 ### 🥇 Primary tools
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
-  </a>
-</p>
+[![🏗️Backend Primary Tools](https://skillicons.dev/icons?i=python,php,nodejs,nestjs,express,django,laravel)](https://skillicons.dev)
 
 My primary backend development tools include [Python](https://www.python.org), [PHP](https://www.php.net), [Node.js](https://nodejs.org), and frameworks like [NestJS](https://nestjs.com/), [Express](https://expressjs.com), [Django](https://www.djangoproject.com/), and [Laravel](https://laravel.com/).
 
@@ -373,22 +329,9 @@ My primary backend development tools include [Python](https://www.python.org), [
 
 ### 🗃️ Databases
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
+[![🗃️ Databases](https://skillicons.dev/icons?i=mongodb,redis,postgresql,mysql,sqlite)](https://skillicons.dev)
 
-I am proficient in working with databases such as [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io), [PostgreSQL](https://www.postgresql.org), and [MySQL](https://www.mysql.com/).
+I am proficient in working with databases such as [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io), [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com/) and [SQLite](https://sqlite.com).
 
 | Technology | Years of exprience | Proficiency |
 | ---------- | ------------------ | ----------- |
@@ -396,17 +339,11 @@ I am proficient in working with databases such as [MongoDB](https://www.mongodb.
 | Redis      | 2 years            | ⭐⭐⭐⭐⭐  |
 | PostgreSQL | 3 years            | ⭐⭐⭐⭐⭐  |
 | MySQL      | 3 years            | ⭐⭐⭐⭐⭐  |
+| SQLite     | 2.5 years          | ⭐⭐⭐⭐⭐  |
 
 ### 📨 Messaging
 
-<p align="left">
-  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLpioqB5oHBOSaqjCXGu5unmOL5OmWLrDVQ&s" alt="Kafka Logo" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-1936x2048-zlik4nni.png" alt="RabbitMQ Logo" width="40" height="40"/>
-  </a>
-</p>
+[![📨 Messaging](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
 
 I have experience with messaging systems like [Kafka](https://kafka.apache.org) and [RabbitMQ](https://www.rabbitmq.com/) for building robust and scalable applications.
 
@@ -416,6 +353,8 @@ I have experience with messaging systems like [Kafka](https://kafka.apache.org) 
 | RabbitMQ   | 2 years            | ⭐⭐⭐⭐⭐  |
 
 ### 🔎 Search & Analytics
+
+
 
 <p align="left">
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
