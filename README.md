@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/anatolii-halas/">
     <img alt="LinkedIn profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/>
   </a>
+  <a href="https://docs.google.com/document/d/1l2-G9OxxXS0AbD4pS7CvRLgU4wpUAxfj2oRyiKeDKNw/edit?usp=sharing">
+    <img alt="Anatolii Halas CV" title="Check an awesome CV" src="https://custom-icon-badges.demolab.com/badge/-My%20CV-blue?style=for-the-badge&color=D5CFE1&logoColor=black&logo=file-badge"/>
+  </a>
   <a href="https://x.com/anatolii_halas">
     <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://img.shields.io/badge/-Follow%20me%20on%20X.com-black?style=for-the-badge&logo=X&logoColor=whith&link=mailto:tolikgalas@gmail.com"/>
   </a>
@@ -19,7 +22,7 @@
     <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/- Follow me-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/la_flxme_/"/>
   </a>
   <a href="https://web.telegram.org/k/#@la_flxme">
-    <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img alt="telegram account" title="Write me on telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
@@ -74,7 +77,6 @@
 <a href="https://tolikhalas.vercel.com" title="Visit Anatolii Halas Portrolio website">
   <img src="./img/Anatolii&apos;s Portfolio - Features.webp" alt="Anatolii Halas Portrolio website">
 </a>
-<!-- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
 <p>
   <span>
