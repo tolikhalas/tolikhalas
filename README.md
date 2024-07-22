@@ -28,7 +28,7 @@
 
 ## <img src="./img/emojis/rocket.webp" alt="Animated Rocker emoji" height="24px"> Jump to
 
-[👨‍💻 Who I am](#who-i-am) | [👀 Check my website](#check-my-website) | [💯 My Top Stack](#my-top-stack) | [💡 What I Do](#what-i-do) | [🎯 Milestones](#milestones) | [🛠️ Tech Stack](#tech-stack) | 🎉 [Fun Facts](#fun-facts) | [✍️ Contact](#contact) | [📊 Stats](#-stats)
+[<img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px"> Highlights](#who-i-am) | [<img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px"> Who I am](#who-i-am) | [<img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="20px"> Check my website](#check-my-website) | [<img src="./img/emojis/100.webp" alt="Animated 100 emoji" height="20px"> My Top Stack](#my-top-stack) | [<img src="./img/emojis/light-bulb.webp" alt="Animated light bulb emoji" height="20px"> What I Do](#what-i-do) | [<img src="./img/emojis/target.webp" alt="Animated target emoji" height="20px"> Milestones](#milestones) | [<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" height="20px" /> Tech Stack](#tech-stack) | [<img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="20px"> Fun Facts](#fun-facts) | [<img src="./img/emojis/writing_hand.gif" alt="Animated writing hand emoji" height="20px"> Contact](#contact) | [<img src="./img/emojis/trophy.gif" alt="Animated trophy emoji" height="20px"> Stats](#-stats)
 
 ## <img src="./img/emojis/sparkles.webp" alt="animated sparks emoji" height="24px"> Highlights
 
@@ -536,7 +536,7 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme/) or [LinkedIn](https://www.linkedin.com/in/anatolii-halas/).
 
-### 📬 You can also find me on
+## <img src="./img/emojis/bellhop-bell.webp" alt="Animated bellhop bell emoji" height="32px"> You can also find me on
 
 <p>
 <a href="https://dev.to/@anatolii_halas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anatolii_halas" height="30" width="40" /></a>
@@ -545,7 +545,7 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/la_flxme/) 
 <a href="https://instagram.com/la_flxme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la_flxme_" height="30" width="40" /></a>
 <p>
 
-## 📊 Stats
+## <img src="./img/emojis/trophy.gif" alt="Animated trophy emoji" height="32px"> Stats
 
 <p align="left">
   <p width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolikhalas&" alt="tolikhalas" /></p>
