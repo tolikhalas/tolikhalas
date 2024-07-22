@@ -28,6 +28,12 @@
 
 Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorcerer 🧙‍♂️
 
+🎭 My mission? Transforming ideas into captivating, user-centric realities that'll make your pixels dance! 💃🕺
+
+🏗️ Whether I'm architecting robust backend castles or painting elegant UI landscapes, I'm always ready for the next thrilling quest in our ever-evolving digital realm.
+
+🌟 Buckle up and let's embark on a code adventure that'll push the boundaries of what's possible! Ready to make some tech magic? Let's go! ✨
+
 ## <img src="./img/emojis/100.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
 
 [![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
@@ -55,14 +61,6 @@ Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorce
 - 🎖️ Proven track record of delivering high-performance web and mobile applications.
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies.
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
-
-### 💅 Why me
-
-🎭 My mission? Transforming ideas into captivating, user-centric realities that'll make your pixels dance! 💃🕺
-
-🏗️ Whether I'm architecting robust backend castles or painting elegant UI landscapes, I'm always ready for the next thrilling quest in our ever-evolving digital realm.
-
-🌟 Buckle up and let's embark on a code adventure that'll push the boundaries of what's possible! Ready to make some tech magic? Let's go! ✨
 
 ## <img src="./img/emojis/rainbow.webp" alt="Animated person raising hand emoji" height="32px"> My Approach
 
