@@ -28,7 +28,6 @@
 
 Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorcerer 🧙‍♂️
 
-
 ## <img src="./img/emojis/100.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
 
 [![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
@@ -367,8 +366,6 @@ I have experience with messaging systems like [Kafka](https://kafka.apache.org) 
 
 ### 🔎 Search & Analytics
 
-
-
 <p align="left">
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="Elasticsearch Logo" height="40"/>
@@ -504,17 +501,21 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 ## <img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="32px"> Fun Facts
 
-1. **🚀 I once built a full-stack application in a weekend hackathon!** The project was a real hit and got featured in a tech blog.
+1. **📸 I have been working as a model as well!** Of cource I had magazine cover.
 
-2. **🌍 I’ve worked with developers from 5 different continents!** Collaborating across time zones has given me a global perspective on technology and teamwork.
+<a href="https://www.behance.net/gallery/122485967/Marika-magazine-Coverstory" title="Marika Magazine Men May 2021 - Issue 886">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb5ef6122485967.60daf4f3acc04.jpg" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb5ef6122485967.60daf4f3acc04.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/bb5ef6122485967.60daf4f3acc04.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/disp/bb5ef6122485967.60daf4f3acc04.jpg 600w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/bb5ef6122485967.60daf4f3acc04.jpg 1920w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bb5ef6122485967.60daf4f3acc04.jpg 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/bb5ef6122485967.60daf4f3acc04.jpg 2550w" sizes="(max-width: 1400px) 100vw, 1400px" class="ImageElement-image-SRv" alt="editorial Photographie" loading="eager" fetchpriority="high">
+</a>
 
-3. **💡 I can code in 4 different programming languages!** From Python to JavaScript, I enjoy exploring various coding paradigms and tools.
+1. **🌍 I’ve worked with developers from 5 different continents!** Collaborating across time zones has given me a global perspective on technology and teamwork.
 
-4. **🎨 I’ve designed logos and UI/UX for startups that are now household names.** My work has helped shape the visual identity of some exciting brands.
+2. **💡 I can code in 4 different programming languages!** From Python to JavaScript, I enjoy exploring various coding paradigms and tools.
 
-5. **🎸 I play the guitar in my spare time.** Music and coding are my two favorite ways to express creativity!
+3. **🎨 I’ve designed logos and UI/UX for startups that are now household names.** My work has helped shape the visual identity of some exciting brands.
 
-6. **<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" alt="Arch Linux Logo" height="16px"> I use arch by the way...**
+4. **🎸 I play the guitar in my spare time.** Music and coding are my two favorite ways to express creativity!
+
+5. **<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" alt="Arch Linux Logo" height="16px"> I use arch by the way...**
 
 ## <img src="./img/emojis/writing_hand.gif" alt="Animated writing emoji" height="32px"> Contact
 
