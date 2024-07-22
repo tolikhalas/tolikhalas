@@ -67,7 +67,7 @@
   }
 ```
 
-## <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="24px"> Check my website
+## <img src="./img/emojis/100.webp" alt="Animated eyes emoji" height="24px"> Check my website
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
@@ -609,7 +609,7 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 ---
 
-## 🎉 Fun Facts
+## <img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="32px"> Fun Facts
 
 1. **🚀 I once built a full-stack application in a weekend hackathon!** The project was a real hit and got featured in a tech blog.
 
