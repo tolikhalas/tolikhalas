@@ -57,7 +57,7 @@ Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorce
 - 🧑‍🎓 Solid foundation in both frontend and backend technologies.
 - 🎉 I thrive in creating seamless, user-centric experiences that drive engagement and satisfaction.
 
-### 💅 What and why
+### 💅 Why me
 
 🎭 My mission? Transforming ideas into captivating, user-centric realities that'll make your pixels dance! 💃🕺
 
