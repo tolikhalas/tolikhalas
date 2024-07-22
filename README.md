@@ -549,9 +549,11 @@ My go-to tools for development and design are [Git](https://git-scm.com/), [Linu
 
 1. **📸 I have been working as a model as well!** Of cource I had magazine cover.
 
-<a href="https://www.behance.net/gallery/122485967/Marika-magazine-Coverstory" title="Marika Magazine Men May 2021 - Issue 886">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb5ef6122485967.60daf4f3acc04.jpg" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb5ef6122485967.60daf4f3acc04.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/bb5ef6122485967.60daf4f3acc04.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/disp/bb5ef6122485967.60daf4f3acc04.jpg 600w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/bb5ef6122485967.60daf4f3acc04.jpg 1920w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bb5ef6122485967.60daf4f3acc04.jpg 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/bb5ef6122485967.60daf4f3acc04.jpg 2550w" sizes="(max-width: 1400px) 100vw, 1400px" class="ImageElement-image-SRv" alt="editorial Photographie" loading="eager" fetchpriority="high">
-</a>
+<p align="center">
+  <a href="https://www.behance.net/gallery/122485967/Marika-magazine-Coverstory" title="Marika Magazine Men May 2021 - Issue 886">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb5ef6122485967.60daf4f3acc04.jpg" class="ImageElement-image-SRv" alt="editorial Photographie" loading="eager" fetchpriority="high" height="400px">
+  </a>
+</p>
 
 1. **🌍 I’ve worked with developers from 5 different continents!** Collaborating across time zones has given me a global perspective on technology and teamwork.
 
