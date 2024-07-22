@@ -3,11 +3,11 @@
 **` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anatolii-halas/">
-    <img alt="LinkedIn profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/>
-  </a>
   <a href="https://docs.google.com/document/d/1l2-G9OxxXS0AbD4pS7CvRLgU4wpUAxfj2oRyiKeDKNw/edit?usp=sharing">
     <img alt="Anatolii Halas CV" title="Check an awesome CV" src="https://custom-icon-badges.demolab.com/badge/-My%20CV-blue?style=for-the-badge&color=D5CFE1&logoColor=black&logo=file-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anatolii-halas/">
+    <img alt="LinkedIn profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/>
   </a>
   <a href="https://x.com/anatolii_halas">
     <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://img.shields.io/badge/-Follow%20me%20on%20X.com-black?style=for-the-badge&logo=X&logoColor=whith&link=mailto:tolikgalas@gmail.com"/>
@@ -74,28 +74,13 @@
 
 ## <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="24px"> Check my website
 
+### 🧑‍🔬 Discover the amazing things I can do
+
+> 👇 Vsit my website for more awesome projects and blogs!
+
 <a href="https://tolikhalas.vercel.com" title="Visit Anatolii Halas Portrolio website">
   <img src="./img/Anatolii&apos;s Portfolio - Features.webp" alt="Anatolii Halas Portrolio website">
 </a>
-
-<p>
-  <span>
-    <a href="https://tolikhalas.vercel.app/" alt="Anatolii Halas Portfolio Website">
-      <span>🌐 Hit my website</span>
-  </span>
-  <span style="color: gray;"> 👷 Still In progress...</span>
-</p> -->
-
-<p align="left">
-      <a href="https://www.linkedin.com/in/anatolii-halas/">
-         <img alt="linkedin profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/></a>
-      <a href="https://x.com/anatolii_halas">
-         <img alt="twitter account" title="Follow me on X.com (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/anatolii_halas?label=X.com&color=222222&logo=eye&logoColor=white&style=for-the-badge&labelColor=black"/></a>
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tolikhalas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/tolikhalas?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tolikhalas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ## <img src="./img/emojis/100.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
 
