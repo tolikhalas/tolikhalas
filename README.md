@@ -475,23 +475,7 @@ I have experience with [Laravel](https://laravel.com/) and its ecosystem, includ
 
 ## 🛠️ DevOps
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-</p>
+[![🗃️ Databases](https://skillicons.dev/icons?i=github,gitlab,aws,docker,jenkins,githubactions,kubernetes,gcp)](https://skillicons.dev)
 
 My primary DevOps tools include [AWS](https://aws.amazon.com), [Docker](https://www.docker.com/), [Jenkins](https://www.jenkins.io), [Kubernetes](https://kubernetes.io), and [Google Cloud](https://cloud.google.com). These tools help manage cloud infrastructure, automate deployments, and maintain scalable systems.
 
@@ -505,20 +489,7 @@ My primary DevOps tools include [AWS](https://aws.amazon.com), [Docker](https://
 
 ## 🛠️ Tools
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
+[![🗃️ Databases](https://skillicons.dev/icons?i=git,linux,figma,photoshop)](https://skillicons.dev)
 
 My go-to tools for development and design are [Git](https://git-scm.com/), [Linux](https://www.linux.org/), [Figma](https://www.figma.com/), and [Photoshop](https://www.photoshop.com/en). These tools are essential for version control, operating systems, UI/UX design, and image editing.
 
