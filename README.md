@@ -42,15 +42,17 @@ Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorce
 
 <p align="left">
   <a href="#highlights">
-    <img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px"> Highlights
+    <img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px">
+    <span>Highlights</span>
   </a>
   ///
   <a href="#who-i-am">
-    <img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px" width="20px"> Who I am
-  </a>
+    <img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px" width="20px">
+    <span>Who I am</span>
   ///
   <a href="#check-my-website">
-    <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="20px"> Check my website
+    <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="20px">
+    <span>Check my website</span>
   </a>
   ///
   <a href="#what-i-do">
@@ -58,27 +60,32 @@ Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorce
   </a>
   ///
   <a href="#my-approach">
-    <img src="./img/emojis/rainbow.webp" alt="Animated person raising hand emoji" height="20px"> My Approach
+    <img src="./img/emojis/rainbow.webp" alt="Animated person raising hand emoji" height="20px">
+    <span>My Approach</span>
   </a>
   ///
   <a href="#milestones">
-    <img src="./img/emojis/target.webp" alt="Animated target emoji" height="20px"> Milestones
+    <img src="./img/emojis/target.webp" alt="Animated target emoji" height="20px">
+    <span>Milestones</span>
   </a>
   ///
   <a href="#tech-stack">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" height="20px"> Tech Stack
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" height="20px">
+    <span>Tech Stack</span>
   </a>
   ///
   <a href="#fun-facts">
-    <img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="20px" width="20px"> Fun Facts
+    <img src="./img/emojis/party-popper.webp" alt="Animated party popper emoji" height="20px" width="20px">
+    <span>Fun Facts</span>
   </a>
   ///
   <a href="#contact">
-    <img src="./img/emojis/writing_hand.gif" alt="Animated writing hand emoji" height="20px"> Contact
+    <img src="./img/emojis/writing_hand.gif" alt="Animated writing hand emoji" height="20px"> <span>Contact</span>
   </a>
   ///
   <a href="#stats">
-    <img src="./img/emojis/trophy.gif" alt="Animated trophy emoji" height="20px"> Stats
+    <img src="./img/emojis/trophy.gif" alt="Animated trophy emoji" height="20px">
+    <span>Stats</span>
   </a>
 </p>
 
