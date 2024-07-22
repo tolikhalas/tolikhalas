@@ -42,11 +42,11 @@ Hey there, fellow explorer! 👋 I'm your friendly neighborhood Full Stack Sorce
 
 <p align="left">
   <a href="#highlights">
-  <img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px"> Highlights
+    <img src="./img/emojis/sparkles.webp" alt="Animated sparkles emoji" height="20px"> Highlights
   </a>
   ///
   <a href="#who-i-am">
-    <img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px"> Who I am
+    <img src="./img/emojis/person-raising-hand.gif" alt="Animated person raising hand emoji" height="20px" width="20px"> Who I am
   </a>
   ///
   <a href="#check-my-website">
