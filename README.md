@@ -18,7 +18,9 @@
   <a href="https://www.instagram.com/la_flxme_/">
     <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/- Follow me-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/la_flxme_/"/>
   </a>
-
+  <a href="https://web.telegram.org/k/#@la_flxme">
+    <img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ## <img src="./img/emojis/sparkles.webp" alt="animated sparks emoji" height="24px"> Highlights
@@ -69,7 +71,10 @@
 
 ## <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="24px"> Check my website
 
-📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
+<a href="https://tolikhalas.vercel.com" title="Visit Anatolii Halas Portrolio website">
+  <img src="./img/Anatolii&apos;s Portfolio - Features.webp" alt="Anatolii Halas Portrolio website">
+</a>
+<!-- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
 <p>
   <span>
@@ -77,7 +82,7 @@
       <span>🌐 Hit my website</span>
   </span>
   <span style="color: gray;"> 👷 Still In progress...</span>
-</p>
+</p> -->
 
 <p align="left">
       <a href="https://www.linkedin.com/in/anatolii-halas/">
@@ -145,7 +150,6 @@
 ### 🥇 Primary tools
 
 [![ 🎨🥇Frontend Primary Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,tailwindcss,bootstrap)](https://skillicons.dev)
-
 
 My primary tools for frontend development include essential web technologies such as [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [HTML](https://raw.githubusercontent.com/devicons), [CSS](https://www.w3schools.com/css/), and popular frameworks like [Sass](https://sass-lang.com), [TailwindCSS](https://tailwindcss.com/), and [Bootstrap](https://getbootstrap.com).
 
