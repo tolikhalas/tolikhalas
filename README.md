@@ -2,7 +2,7 @@
 
 **` 🚀👨‍💻 Experienced Full Stack Developer | Software Enthusiast | Agile Advocate`**
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anatolii-halas/">
     <img alt="LinkedIn profile" title="Hire me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Hire%20me-blue?style=for-the-badge&color=0071b1&logoColor=white&logo=linkedin"/>
   </a>
@@ -67,7 +67,7 @@
   }
 ```
 
-## <img src="./img/emojis/100.webp" alt="Animated eyes emoji" height="24px"> Check my website
+## <img src="./img/emojis/eyes.gif" alt="Animated eyes emoji" height="24px"> Check my website
 
 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1FlkTZUvQEQN4OTryMGbsXnEWyuo8DwHdjqbMBzjOirE/edit?usp=sharing)
 
@@ -90,7 +90,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tolikhalas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## <img src="./img/emojis/electricity.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
+## <img src="./img/emojis/100.webp" alt="Animated electricity emoji" height="24px"> My Top Stack
 
 [![⛰️ Top Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,redux,tailwindcss,vitest,nodejs,nestjs,postgres,redis,kafka,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
@@ -144,29 +144,8 @@
 
 ### 🥇 Primary tools
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" height="32"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
+[![ 🎨🥇Frontend Primary Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,tailwindcss,bootstrap)](https://skillicons.dev)
+
 
 My primary tools for frontend development include essential web technologies such as [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [HTML](https://raw.githubusercontent.com/devicons), [CSS](https://www.w3schools.com/css/), and popular frameworks like [Sass](https://sass-lang.com), [TailwindCSS](https://tailwindcss.com/), and [Bootstrap](https://getbootstrap.com).
 
