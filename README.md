@@ -43,13 +43,13 @@
 
 ```js
   import { proficiency } from "@typescript/nestjs"
-  import { relability } from "@python/django"
+  import { reliability } from "@python/django"
   import { innovation } from "@php/laravel"
 
   import { HighProfit, Enhance } from "@my/experience"
 
   @Module({
-    imports: [proficiency, relability, innovation]
+    imports: [proficiency, reliability, innovation]
   })
   export class AnatoliiHalas implements ProDev {
 
