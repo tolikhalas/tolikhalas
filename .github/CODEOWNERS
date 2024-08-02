@@ -1,0 +1,17 @@
+# This is a basic CODEOWNERS file
+
+## The '*' wildcard applies to all files in the repository
+
+*          @tolikhalas
+
+## Exact file matches can also be specified
+
+## This applies to the README.md file
+
+README.md  @tolikhalas
+
+## You can use comments to explain the rules
+
+## The following applies to the '.github' directory
+
+.github/*  @tolikhalas

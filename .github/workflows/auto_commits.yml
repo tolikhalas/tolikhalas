@@ -1,0 +1,22 @@
+name: Daily Auto Commits Workflows
+
+on:
+  schedule:
+    - cron: 22 * * * *
+
+jobs:
+  daily_auto_commits:
+    name: Daily Auto Commits Job
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone tolikhalas/commit repository
+        uses: GuillaumeFalourd/clone-github-repo-action@v2.3
+        with:
+          depth: 1
+          branch: "main"
+          owner: "tolikhalas"
+          repository: "commit-bot"
+
+      - name: Run Autocommit bot
+        run: cd commit-bot && /bin/bash ./commit-bot/bot.sh
