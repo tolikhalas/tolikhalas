@@ -3,7 +3,7 @@ name: Daily Auto Commits Workflows
 on:
   workflow_dispatch:
   schedule:
-    - cron: 27 * * * *
+    - cron: 0 * * * *
 
 jobs:
   daily_auto_commits:
