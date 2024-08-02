@@ -19,6 +19,13 @@ jobs:
           owner: "tolikhalas"
           repository: "commit-bot"
 
+      - name: Setup git user
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "toligalas@gmail.com"
+          git config --global user.name "Anatolii Halas"
+
       - name: Setup exection permissions
         run: chmod +x ./commit-bot/bot.sh
 
