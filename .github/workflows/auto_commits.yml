@@ -19,5 +19,8 @@ jobs:
           owner: "tolikhalas"
           repository: "commit-bot"
 
+      - name: Setup exection permissions
+        run: chmod +x ./commit-bot/bot.sh
+
       - name: Run Autocommit bot
         run: bash ./commit-bot/bot.sh
