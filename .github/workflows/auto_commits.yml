@@ -20,5 +20,5 @@ jobs:
           repository: "commit-bot"
 
       - name: Run Autocommit bot
-        run: ./commit-bot/bot.sh
+        run: chmod +x ./commit-bot/bot.sh && ./commit-bot/bot.sh
         shell: bash
