@@ -24,6 +24,6 @@ jobs:
       - name: Add changes and push
         run: |
           info="Commit - $(date)"
-          echo "$info" >> output.txt
+          echo "$info" >> reports.txt
           git commit -am "$info"
           git push
