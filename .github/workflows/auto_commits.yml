@@ -24,6 +24,9 @@ jobs:
           git config --global user.email "tolikgalas@gmail.com"
           git config --global user.name "Anatolii Halas"
 
+      - name: Show remote url
+        run: git remote get-url origin
+
       - name: Added changes and push
         run: |
           info="Commit - $(date)"
