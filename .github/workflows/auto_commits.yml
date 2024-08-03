@@ -15,24 +15,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          repository: tolikhalas/commit-bot
 
       - name: Setup git User
         run: |
           git config --global user.email "tolikgalas@gmail.com"
           git config --global user.name "Anatolii Halas"
 
-      - name: Show remote url
-        run: git remote get-url origin
-
-      - name: Add changes and push to another repository
-        env:
-          PAT: ${{ secrets.ACTIONS_PAT }}
+      - name: Add changes and push
         run: |
           info="Commit - $(date)"
           echo "$info" >> output.txt
-          git add output.txt
-          git commit -m "$info"
-          git remote add target https://$PAT@github.com/tolikhalas/commit-bot.git
-          git push target main
+          git commit -am "$info"
+          git push
