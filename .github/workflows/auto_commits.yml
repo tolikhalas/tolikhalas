@@ -3,7 +3,7 @@ name: Daily Auto Commits Workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/20 * * * *"
 
 jobs:
   daily_auto_commits:
@@ -18,7 +18,6 @@ jobs:
         with:
           persist-credentials: false
           repository: tolikhalas/commit-bot
-          path: commit-bot
           fetch-depth: 0
 
       - name: Setup git User
@@ -30,5 +29,5 @@ jobs:
         run: ls -l
 
       - name: Proceed commit
-        run: bash ./bot.sh
+        run: bash ./commit-bot//bot.sh
         shell: bash
