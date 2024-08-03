@@ -28,7 +28,7 @@ jobs:
 
       - name: Added changes and push
         env:
-          PAT: ${{ secrets.ACTIONS_PAT }}
+          token: ${{ secrets.ACTIONS_PAT }}
         run: |
           info="Commit - $(date)"
           echo "$info" >> output.txt
