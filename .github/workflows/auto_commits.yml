@@ -26,6 +26,9 @@ jobs:
           git config --global user.email "tolikgalas@gmail.com"
           git config --global user.name "Anatolii Halas"
 
+      - name: Show files
+        run: ls -l
+
       - name: Proceed commit
         run: bash ./bot.sh
         shell: bash
