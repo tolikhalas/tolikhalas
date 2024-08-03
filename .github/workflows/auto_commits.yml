@@ -3,7 +3,7 @@ name: Daily Auto Commits Workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   daily_auto_commits:
@@ -13,25 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Clone commit-bot repository
-        uses: actions/checkout@v2
         with:
           repository: tolikhalas/commit-bot
-          path: commit-bot
 
-      - name: Setup git user
-        run: |
-          git config --global user.email "toligalas@gmail.com"
-          git config --global user.name "Anatolii Halas"
-
-      - name: Setup execution permissions
-        run: chmod +x ./commit-bot/bot.sh
-
-      - name: Run Autocommit bot
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          cd commit-bot
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tolikhalas/commit-bot.git
-          bash bot.sh
+      - name: Say Hello
+        run: echo 'Hello'
