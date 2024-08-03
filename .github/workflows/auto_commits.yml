@@ -2,18 +2,22 @@ name: Daily Auto Commits Workflow
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: '*/2 * * * *'
 
 jobs:
   daily_auto_commits:
     name: Daily Auto Commits Job
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
+          persist-credentials: false
           repository: tolikhalas/commit-bot
+          fetch-depth: 0
 
       - name: Say Hello
         run: echo 'Hello'
