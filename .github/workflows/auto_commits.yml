@@ -16,7 +16,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          persist-credentials: false
           repository: tolikhalas/commit-bot
 
       - name: Setup git User
