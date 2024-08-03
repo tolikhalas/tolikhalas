@@ -26,12 +26,13 @@ jobs:
       - name: Show remote url
         run: git remote get-url origin
 
-      - name: Added changes and push
+      - name: Add changes and push to another repository
         env:
-          token: ${{ secrets.ACTIONS_PAT }}
+          PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           info="Commit - $(date)"
           echo "$info" >> output.txt
           git add output.txt
           git commit -m "$info"
-          git push origin main
+          git remote add target https://$PAT@github.com/tolikhalas/commit-bot.git
+          git push target main
