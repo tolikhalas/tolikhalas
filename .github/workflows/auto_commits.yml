@@ -1,4 +1,4 @@
-name: Daily Auto Commits Workflows
+name: Daily Auto Commits Workflow
 
 on:
   workflow_dispatch:
@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone tolikhalas/commit repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Clone tolikhalas/commit-bot repository
         uses: GuillaumeFalourd/clone-github-repo-action@v2.3
         with:
           depth: 1
@@ -25,8 +28,9 @@ jobs:
         run: |
           git config --global user.email "toligalas@gmail.com"
           git config --global user.name "Anatolii Halas"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tolikhalas/commit-bot.git
 
-      - name: Setup exection permissions
+      - name: Setup execution permissions
         run: chmod +x ./commit-bot/bot.sh
 
       - name: Run Autocommit bot
