@@ -29,5 +29,5 @@ jobs:
         run: ls -l
 
       - name: Proceed commit
-        run: bash ./commit-bot//bot.sh
+        run: bash ./commit-bot/bot.sh
         shell: bash
