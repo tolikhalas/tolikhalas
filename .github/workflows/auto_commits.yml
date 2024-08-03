@@ -1,8 +1,9 @@
 name: Daily Auto Commits Workflow
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: "*/2 * * * *"
 
 jobs:
   daily_auto_commits:
@@ -17,7 +18,14 @@ jobs:
         with:
           persist-credentials: false
           repository: tolikhalas/commit-bot
+          path: commit-bot
           fetch-depth: 0
 
-      - name: Say Hello
-        run: echo 'Hello'
+      - name: Setup git User
+        run: |
+          git config --global user.email "tolikgalas@gmail.com"
+          git config --global user.name "Anatolii Halas"
+
+      - name: Proceed commit
+        run: bash ./bot.sh
+        shell: bash
