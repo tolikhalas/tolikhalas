@@ -18,7 +18,6 @@ jobs:
         with:
           persist-credentials: false
           repository: tolikhalas/commit-bot
-          fetch-depth: 0
 
       - name: Setup git User
         run: |
