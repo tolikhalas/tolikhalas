@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Autocommit bot
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           cd commit-bot
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tolikhalas/commit-bot.git
