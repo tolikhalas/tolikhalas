@@ -27,6 +27,8 @@ jobs:
         run: git remote get-url origin
 
       - name: Added changes and push
+        env:
+          PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           info="Commit - $(date)"
           echo "$info" >> output.txt
