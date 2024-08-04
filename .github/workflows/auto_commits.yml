@@ -21,9 +21,20 @@ jobs:
           git config --global user.email "tolikgalas@gmail.com"
           git config --global user.name "Anatolii Halas"
 
-      - name: Add changes and push
+      - name: Random number for commits
+        id: random_number
+        uses: yakubique/random-number@v1.1
+        with:
+          min: "10"
+          max: "15"
+
+      - name: Generate commits random number of times
         run: |
-          info="Commit - $(date)"
-          echo "$info" >> reports.txt
-          git commit -am "$info"
+          number_of_commits=steps.random_number.outputs.result
+          for(i=0; i<number_of_commits;i++); do
+            info="Commit - $(date)"
+            echo "$info" >> reports.txt
+            git commit -am "$info"
+            sleep 0.5
+          done
           git push
