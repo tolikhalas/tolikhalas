@@ -25,11 +25,11 @@ jobs:
         id: day_of_week
         run: echo "weekday=$(date +%A)" >> $GITHUB_OUTPUT
 
-      - name: Set min value based on day of week
+      - name: Set random number of commits
         id: set_min_max_value
         run: |
           weekday=${{ steps.day_of_week.outputs.weekday }}
-          if [ weekday == "Sunday" || weekday == "Saturday" ]; then
+          if [ $weekday == "Sunday" ] || [ $weekday == "Saturday" ]; then
             echo "min=5" >> $GITHUB_OUTPUT
             echo "max=25" >> $GITHUB_OUTPUT
           else
