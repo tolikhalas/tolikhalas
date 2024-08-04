@@ -31,7 +31,7 @@ jobs:
       - name: Generate commits random number of times
         run: |
           number_of_commits=steps.random_number.outputs.result
-          for(i=0; i<number_of_commits;i++); do
+          for((i=0; i<number_of_commits; i++)); do
             info="Commit - $(date)"
             echo "$info" >> reports.txt
             git commit -am "$info"
