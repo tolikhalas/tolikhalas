@@ -30,7 +30,7 @@ jobs:
 
       - name: Generate commits random number of times
         run: |
-          number_of_commits=steps.random_number.outputs.result
+          number_of_commits=steps.random_number.outputs.number
           for((i=0; i<number_of_commits; i++)); do
             info="Commit - $(date)"
             echo "$info" >> reports.txt
