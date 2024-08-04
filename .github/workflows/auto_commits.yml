@@ -21,12 +21,28 @@ jobs:
           git config --global user.email "tolikgalas@gmail.com"
           git config --global user.name "Anatolii Halas"
 
+      - name: Get day of week
+        id: day_of_week
+        run: echo "weekday=$(date +%A)" >> $GITHUB_ENV
+
+      - name: Set min value based on day of week
+        id: set_min_max_value
+        run: |
+          weekday=${{ steps.day_of_week.outputs.weekday }}
+          if [ weekday == "Sunday" || weekday == "Saturday" ]; then
+            echo "min=5" >> $GITHUB_ENV
+            echo "max=25" >> $GITHUB_ENV
+          else
+            echo "min=25" >> $GITHUB_ENV
+            echo "max=75" >> $GITHUB_ENV
+          fi
+
       - name: Random number for commits
         id: random_number
         uses: yakubique/random-number@v1.1
         with:
-          min: "10"
-          max: "15"
+          min: ${{ steps.set_min_max_value.outputs.min }}
+          max: ${{ steps.set_min_max_value.outputs.max }}
 
       - name: Generate commits random number of times
         run: |
