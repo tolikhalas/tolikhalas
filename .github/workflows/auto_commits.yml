@@ -55,6 +55,7 @@ jobs:
             sleep 0.5
           done
           git push
+          exit 0
 
       - name: Notify Slack - Success
         uses: slackapi/slack-github-action@v1.26.0
