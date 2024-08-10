@@ -63,20 +63,19 @@ jobs:
         with:
           payload: |
             {
-              "text": "Automated commits published successfully ✅",
+              "text": "Automated commits published successfully ✅\nGithub Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}\nNumber of commits published: ${{ steps.commits_number.outputs.number }}",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "Github Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}\nNumber of commits published: ${{ steps.commits_number.outputs.number }}"
+                    "text": "Automated commits published successfully ✅\nGithub Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}\nNumber of commits published: ${{ steps.commits_number.outputs.number }}"
                   }
                 }
               ]
             }
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-
 
       - name: Notify Slack - Failure
         uses: slackapi/slack-github-action@v1.26.0
@@ -84,17 +83,16 @@ jobs:
         with:
           payload: |
             {
-              "text": "Automated commits publish failed ❌",
+              "text": "Automated commits publish failed ❌\Github Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "Github Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}"
+                    "text": "Automated commits publish failed ❌\Github Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}"
                   }
                 }
               ]
             }
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-
