@@ -38,15 +38,16 @@ jobs:
           fi
 
       - name: Random number for commits
-        id: random_number
+        id: commits_number
         uses: yakubique/random-number@v1.1
         with:
           min: ${{ steps.set_min_max_value.outputs.min }}
           max: ${{ steps.set_min_max_value.outputs.max }}
 
       - name: Generate commits random number of times
+        id: commits
         run: |
-          number_of_commits=${{ steps.random_number.outputs.number }}
+          number_of_commits=${{ steps.commits_number.outputs.number }}
           for((i=0; i<number_of_commits; i++)); do
             info="Commit - $(date)"
             echo "$info" >> reports.txt
@@ -54,3 +55,37 @@ jobs:
             sleep 0.5
           done
           git push
+
+      - name: Notify Slack - Success
+        uses: slackapi/slack-github-action@v1.26.0
+        if: ${{ steps.commits.outcome.Success }}
+        with:
+          payload: |
+            {
+              "text": "Automated commits published successfully ✅"
+              "blocks": {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "Github Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}\nNumber of commits published: ${{ steps.commits_number.outputs.number }}"
+                }
+              }
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Notify Slack - Failure
+        uses: slackapi/slack-github-action@v1.26.0
+        if: ${{ steps.commits.outcome.Failure }}
+        with:
+          payload: |
+            {
+              "text": "Automated commits publish failed ❌"
+              "blocks": {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "Github Action 'Daily Auto Commits Workflow' job result: ${{ job.status }}"
+                }
+              }
+            }
